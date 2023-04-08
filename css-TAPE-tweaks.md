@@ -1,4 +1,7 @@
-##### TAPE Tweaks
+#### TAPE Tweaks
+=======================================
+
+###### TAPE "10" columns.
 
     td.timestamp { 
       	display: none !important; 
@@ -11,7 +14,7 @@
     }
 
 
-###### TAPE four column.
+###### TAPE "4" columns.
 ![cignals-price-amount](/media/cignals-price-amount.png)
 
     td.cvd { 
