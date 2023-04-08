@@ -14,6 +14,21 @@
       	height: 33vh; 
     }
 
+###### TAPE "5" columns. (Price & Amount)
+![cignals-price-amount](/media/cignals-price-amount.png)
+
+    td.cvd { 
+	    display: none !important; 
+    }
+    td.timestamp { 
+	    display: none !important;
+    }
+    td.z { 
+        display: none !important; 
+    }
+    .tape-container { 
+        height: 21vh; 
+    }
 
 ###### TAPE "4" columns. (Price & Amount)
 ![cignals-price-amount](/media/cignals-price-amount.png)
