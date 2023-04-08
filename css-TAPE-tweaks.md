@@ -12,7 +12,7 @@
 
 
 ###### TAPE four column.
-![cignals-price-amount](/media/cignals-price-amount.jpg)
+![cignals-price-amount](/media/cignals-price-amount.png)
 
     td.cvd { 
     	display: none !important; 
