@@ -27,3 +27,6 @@
   	    height: 18vh; 
     }
 
+###### OBS Setting
+
+![cignals-4x-tape](/media/cignals-4x-tape.png)
