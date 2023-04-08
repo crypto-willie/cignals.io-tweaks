@@ -1,7 +1,8 @@
-#### TAPE Tweaks
+#### TAPE Tweaks (CVD, Price & Amount)
 =======================================
 
 ###### TAPE "10" columns.
+![cignals-price-amount](/media/cignals-price-amount.png)
 
     td.timestamp { 
       	display: none !important; 
@@ -14,7 +15,7 @@
     }
 
 
-###### TAPE "4" columns.
+###### TAPE "4" columns. (Price & Amount)
 ![cignals-price-amount](/media/cignals-price-amount.png)
 
     td.cvd { 
