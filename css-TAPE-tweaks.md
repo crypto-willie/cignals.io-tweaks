@@ -20,9 +20,9 @@
     	display: none !important;
     }
     td.z { 
-  	display: none !important; 
+  	    display: none !important; 
     }
     .tape-container { 
-  	height: 18vh; 
+  	    height: 18vh; 
     }
 
