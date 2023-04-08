@@ -14,6 +14,9 @@
       	height: 33vh; 
     }
 
+###### OBS Setting
+![cignals-price-amount-10](/media/cignals-price-amount-10.png)
+
 ###### TAPE "5" columns. (Price & Amount)
 ![cignals-price-amount](/media/cignals-price-amount.png)
 
@@ -29,6 +32,9 @@
     .tape-container { 
         height: 21vh; 
     }
+
+###### OBS Setting
+![cignals-price-amount-5](/media/cignals-price-amount-5.png)
 
 ###### TAPE "4" columns. (Price & Amount)
 ![cignals-price-amount](/media/cignals-price-amount.png)
