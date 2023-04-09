@@ -2,7 +2,7 @@
 =======================================
 
 ###### TAPE "10" columns.
-![cignals-price-amount-10px](/media/cignals-price-amount-10px.png)
+![cignals-10](/media/cignals-10.png)
 
     td.timestamp { 
       	display: none !important; 
@@ -18,7 +18,7 @@
 ![OBS-10](/media/OBS-10.png)
 
 ###### TAPE "5" columns. (Price & Amount)
-![cignals-price-amount-5px](/media/cignals-price-amount-5px.png)
+![cignals-5](/media/cignals-5.png)
 
     td.cvd { 
 	    display: none !important; 
@@ -37,7 +37,7 @@
 ![OBS-5](/media/OBS-5.png)
 
 ###### TAPE "4" columns. (Price & Amount)
-![cignals-price-amount](/media/cignals-price-amount.png)
+![cignals-4](/media/cignals-4.png)
 
     td.cvd { 
     	display: none !important; 
