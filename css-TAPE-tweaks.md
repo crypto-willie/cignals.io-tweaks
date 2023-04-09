@@ -15,7 +15,7 @@
     }
 
 ###### OBS Setting
-![cignals-price-amount-10](/media/cignals-price-amount-10.png)
+![OBS-10](/media/OBS-10.png)
 
 ###### TAPE "5" columns. (Price & Amount)
 ![cignals-price-amount-5px](/media/cignals-price-amount-5px.png)
@@ -34,7 +34,7 @@
     }
 
 ###### OBS Setting
-![cignals-price-amount-5](/media/cignals-price-amount-5.png)
+![OBS-5](/media/OBS-5.png)
 
 ###### TAPE "4" columns. (Price & Amount)
 ![cignals-price-amount](/media/cignals-price-amount.png)
@@ -54,4 +54,4 @@
 
 ###### OBS Setting
 
-![cignals-4x-tape](/media/cignals-4x-tape.png)
+![OBS-4](/media/OBS-4.png)
