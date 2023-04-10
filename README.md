@@ -1,4 +1,4 @@
-cignals.io DOM & TAPE tweaks for OBS Studio.
+[cignals.io](https://cignals.io/) DOM & TAPE tweaks for [OBS Studio](https://obsproject.com/).
 
 ![Screenshot-1](/media/Screenshot-1.png)
 
