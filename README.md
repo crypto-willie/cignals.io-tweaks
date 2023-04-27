@@ -7,7 +7,7 @@
 [cignalsmaster3840x1080](/json/cignalsmaster3840x1080.json)
 
 ![Screenshot-3](/media/Screenshot-3.png)
-[BTC-Journal](/media/BTC-Journal.docx)
+[BTC-Journal](/media/BTC-Journal.pdf)
 
 
 
