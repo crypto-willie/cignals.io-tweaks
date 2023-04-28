@@ -48,3 +48,11 @@
     }
 
 
+###### MISC. Volume Cluster
+
+g.volumeProfile { 
+    display: none !important; 
+}
+rect { 
+    display: none !important;  
+}
