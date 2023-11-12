@@ -33,35 +33,35 @@
 
 ######
 
-#### MISC 
+#### Spot DOM
 
-    td.pull_stack_ask { 
-	    display: none !important; 
-    }
-    td.pull_stack_bid { 
-	    display: none !important; 
-    }
-    td.sell { 
-	    display: none !important; 
-    }
-    td.buy { 
-	    display: none !important; 
-    }
-    td.volume { 
-	    display: none !important; 
-    }
-    td.delta { 
-	    display: none !important; 
-    }
-    td.price { 
-	    width: 5% !important; 
-    }
-    td.bid { 
-	    width: 7.5% !important; 
-    }
-    td.ask { 
-	    width: 7.5% !important; 
-    }
+	td.pull_stack_ask { 
+    		display: none !important; 
+	}
+	td.pull_stack_bid { 
+    		display: none !important; 
+	}
+	td.sell { 
+    		display: none !important;
+	}
+	td.buy { 
+    		display: none !important;
+	}
+	td.volume { 
+    		display: none !important; 
+	}
+	td.delta { 
+    		display: !important; 
+	}
+	td.price { 
+    		width: 5% !important; 
+	}
+	td.bid { 
+    		width: 6.5% !important; 
+	}
+	td.ask { 
+    		width: 6.5% !important; 
+	}
     
 ###### Misc. DOM Tweaks
 
