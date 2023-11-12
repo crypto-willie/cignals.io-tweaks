@@ -23,8 +23,8 @@
 	td.price { 
     		width: 3.5% !important; 
 	}
-		td.bid { 
-    	width: 2.5% !important; 
+	td.bid { 
+    		width: 2.5% !important; 
 	}
 	td.ask { 
     		width: 2.5% !important; 
