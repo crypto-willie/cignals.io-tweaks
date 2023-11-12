@@ -1,9 +1,9 @@
 #### TAPE Tweaks (CVD, Price & Amount)
 =======================================
 
-![cignals-10](/media/scalp-cvd-tape.png)
-
 #### Tape CVD Scalp
+
+![cignals-10](/media/scalp-cvd-tape.png)
 
 	td.timestamp { 
   		display: none !important; 
@@ -11,6 +11,20 @@
 	td.amount { 
   		display: none !important; 
 	}
+	.tape-container { 
+  		height: 56vh; 
+	}
+
+#### Scalp-Tape-Size
+
+![cignals-10](/media/Scalp-Tape-Size.png)
+
+	td.timestamp { 
+  		display: none !important; 
+	}
+	td.z { 
+   	 	display: none !important; 
+		}
 	.tape-container { 
   		height: 56vh; 
 	}
