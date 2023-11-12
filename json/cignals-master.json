@@ -1,6 +1,6 @@
 {
-    "current_scene": "BTC DOM | Tape",
-    "current_program_scene": "BTC DOM | Tape",
+    "current_scene": "MATIC- SCALP",
+    "current_program_scene": "MATIC- SCALP",
     "scene_order": [
         {
             "name": "BTC DOM | Tape"
@@ -22,6 +22,9 @@
         },
         {
             "name": "LTC- SCALP"
+        },
+        {
+            "name": "MATIC- SCALP"
         }
     ],
     "name": "cignals-master",
@@ -1229,45 +1232,45 @@
     "transitions": [],
     "saved_projectors": [
         {
+            "name": "BTC - Scalp",
+            "monitor": -1,
+            "type": 1,
+            "geometry": "AdnQywADAAAAAAPY///7yAAAC1X////+AAAD2P//++cAAAtV/////gAAAAMAAAAADwAAAAPY///75wAAC1X////+",
+            "alwaysOnTopOverridden": false
+        },
+        {
             "name": "btc/perp/dom/tape",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAA+BAAADygAAEz4AAAXkAAAPgQAAA+kAABM+AAAF5AAAAAEAAAAAB4AAAA+BAAAD6QAAEz4AAAXk",
+            "geometry": "AdnQywADAAAAAAtY///7yAAAEtX////+AAALWP//++cAABLV/////gAAAAMAAAAADwAAAAtY///75wAAEtX////+",
             "alwaysOnTopOverridden": false
         },
         {
             "name": "btc/spot/dom",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAA+BAAAF5gAAEz4AAAgAAAAPgQAABgUAABM+AAAIAAAAAAEAAAAAB4AAAA+BAAAGBQAAEz4AAAgA",
+            "geometry": "AdnQywADAAAAAAP1///+UAAABdT///98AAAD9f///m8AAAXU////fAAAAAMAAAAADwAAAAP1///+bwAABdT///98",
             "alwaysOnTopOverridden": false
         },
         {
             "name": "btc/spot/tape",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAAvBAAAF5gAAD34AAAgAAAALwQAABgUAAA9+AAAIAAAAAAEAAAAAB4AAAAvBAAAGBQAAD34AAAgA",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "BTC - Scalp",
-            "monitor": -1,
-            "type": 1,
-            "geometry": "AdnQywADAAAAAAvBAAADygAAD34AAAXkAAALwQAAA+kAAA9+AAAF5AAAAAEAAAAAB4AAAAvBAAAD6QAAD34AAAXk",
+            "geometry": "AdnQywADAAAAAAPg///7yAAABb////z0AAAD4P//++cAAAW////89AAAAAMAAAAADwAAAAPg///75wAABb////z0",
             "alwaysOnTopOverridden": false
         },
         {
             "name": "SOL - Scalp",
-            "monitor": -1,
+            "monitor": 1,
             "type": 1,
-            "geometry": "AdnQywADAAAAAAvB////kgAAEz4AAAPIAAALwf///7EAABM+AAADyAAAAAMAAAAADwAAAAvB////sQAAEz4AAAPI",
+            "geometry": "AdnQywADAAAAAA8IAAAAAAAAFncAAAQvAAAPAAAAAAAAABZ/AAAENwAAAAEABAAAB4AAAA8AAAAAAAAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         },
         {
-            "name": "AVAX- SCALP",
+            "name": "MATIC- SCALP",
             "monitor": -1,
             "type": 1,
-            "geometry": "AdnQywADAAAAAARB////kgAAC74AAAPIAAAEQf///7EAAAu+AAADyAAAAAMAAAAADwAAAARB////sQAAC74AAAPI",
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAQ6gAAALsAABLJAAAByAAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -1497,11 +1500,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume"
+                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -1536,8 +1539,8 @@
                 "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=25.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n    display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}",
-                "shutdown": true
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n    display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -1573,7 +1576,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
+                "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -1686,10 +1689,10 @@
                         "name": "AVAX - VC - 5m",
                         "source_uuid": "5a6bad74-9980-4056-9b60-a72ce14d835b",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.0,
+                            "x": -11.0,
                             "y": 0.0
                         },
                         "scale": {
@@ -2200,44 +2203,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC - DOM - 10.0",
-                        "source_uuid": "4c0f5932-3533-472b-87a2-23ca24a4ce1f",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1258.0,
-                            "y": 75.0
-                        },
-                        "scale": {
-                            "x": 0.84166663885116577,
-                            "y": 0.84166663885116577
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 310,
-                        "crop_top": 35,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 5,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "BTC-15m-VC",
                         "source_uuid": "5e916b1d-df0f-4aa1-9bd0-29451da10ea5",
                         "visible": true,
@@ -2263,6 +2228,44 @@
                         "crop_right": 0,
                         "crop_bottom": 0,
                         "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - DOM - 10.0",
+                        "source_uuid": "4c0f5932-3533-472b-87a2-23ca24a4ce1f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1258.0,
+                            "y": 75.0
+                        },
+                        "scale": {
+                            "x": 0.84166663885116577,
+                            "y": 0.84166663885116577
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 310,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -2393,7 +2396,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
+                "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -3328,7 +3331,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -4187,6 +4190,58 @@
         },
         {
             "prev_ver": 486604803,
+            "name": "Color Source LTC",
+            "uuid": "720faefb-4508-4ae6-b528-3079d2dd0c45",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4281017633
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "Color Source MATIC",
+            "uuid": "c7bc5f0d-b670-40ad-aacf-063e4134e408",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4281017633
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
             "name": "Colour Source APT",
             "uuid": "a334b2dc-e4c5-413f-a61a-a456f7b8177d",
             "id": "color_source",
@@ -4241,32 +4296,6 @@
             "prev_ver": 486604803,
             "name": "Colour Source LINK",
             "uuid": "9721a367-66d9-4a25-b78a-310ee423e4fb",
-            "id": "color_source",
-            "versioned_id": "color_source_v3",
-            "settings": {
-                "color": 4281017633
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 486604803,
-            "name": "Colour Source LTC",
-            "uuid": "720faefb-4508-4ae6-b528-3079d2dd0c45",
             "id": "color_source",
             "versioned_id": "color_source_v3",
             "settings": {
@@ -4606,7 +4635,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
+                "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -4701,11 +4730,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}",
-                "shutdown": true,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144",
                 "width": 1080,
                 "height": 1080,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144"
+                "shutdown": true,
+                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -4737,11 +4766,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -4773,11 +4802,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+                "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -5040,11 +5069,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings[instrument_id]=140583&query=binance+futures+link+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.05&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=3&settings[size_precision]=8&settings[period_width]=20&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true",
                 "width": 1280,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/vc?settings[instrument_id]=140583&query=binance+futures+link+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.05&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=3&settings[size_precision]=8&settings[period_width]=20&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -5076,11 +5105,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=268&query=binance+futures+ltc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}",
                 "shutdown": true,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=268&query=binance+futures+ltc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144"
+                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -5107,16 +5136,16 @@
         },
         {
             "prev_ver": 486604803,
-            "name": "LTC - Tape - Amount - 100.0",
+            "name": "LTC - Tape - Amount - 10.0",
             "uuid": "65269836-4b9f-461d-a2d6-f7173f05c6d1",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=268&query=binance+futures+ltc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=10.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=268&query=binance+futures+ltc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -5143,16 +5172,88 @@
         },
         {
             "prev_ver": 486604803,
-            "name": "LTC - Tape -100.0",
+            "name": "LTC - Tape - Amount - 500.0",
+            "uuid": "7f5608d2-902c-4540-830e-dc0f929c5bb6",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n \tdisplay: none !important; \n\t}\n.tape-container { \n\theight: 56vh; \n}",
+                "shutdown": true,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=500.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "LTC - Tape -10.0",
             "uuid": "3762c5eb-1a7f-43ef-b751-6faa7dcfb42d",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=268&query=binance+futures+ltc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=10.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
+                "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=268&query=binance+futures+ltc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+                "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\ntd.amount { \n  display: none !important; \n}\n.tape-container { \n  height: 56vh; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "LTC - Tape -500.0",
+            "uuid": "61b5dc90-e50f-47ba-9a8c-597c1cbf6245",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n.tape-container { \n\theight: 56vh; \n}",
+                "width": 1080,
+                "height": 1080,
+                "shutdown": true,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=500.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
             },
             "mixers": 255,
             "sync": 0,
@@ -5188,7 +5289,7 @@
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "Colour Source LTC",
+                        "name": "Color Source LTC",
                         "source_uuid": "720faefb-4508-4ae6-b528-3079d2dd0c45",
                         "visible": true,
                         "locked": true,
@@ -5302,7 +5403,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LTC - Tape -100.0",
+                        "name": "LTC - Tape -10.0",
                         "source_uuid": "3762c5eb-1a7f-43ef-b751-6faa7dcfb42d",
                         "visible": true,
                         "locked": true,
@@ -5340,7 +5441,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LTC - Tape - Amount - 100.0",
+                        "name": "LTC - Tape - Amount - 10.0",
                         "source_uuid": "65269836-4b9f-461d-a2d6-f7173f05c6d1",
                         "visible": true,
                         "locked": true,
@@ -5392,16 +5493,16 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.Colour Source LTC": [],
-                "libobs.hide_scene_item.Colour Source LTC": [],
+                "libobs.show_scene_item.Color Source LTC": [],
+                "libobs.hide_scene_item.Color Source LTC": [],
                 "libobs.show_scene_item.LTC-5m-VC": [],
                 "libobs.hide_scene_item.LTC-5m-VC": [],
                 "libobs.show_scene_item.LTC - DOM": [],
                 "libobs.hide_scene_item.LTC - DOM": [],
-                "libobs.show_scene_item.LTC - Tape -100.0": [],
-                "libobs.hide_scene_item.LTC - Tape -100.0": [],
-                "libobs.show_scene_item.LTC - Tape - Amount - 100.0": [],
-                "libobs.hide_scene_item.LTC - Tape - Amount - 100.0": []
+                "libobs.show_scene_item.LTC - Tape -10.0": [],
+                "libobs.hide_scene_item.LTC - Tape -10.0": [],
+                "libobs.show_scene_item.LTC - Tape - Amount - 10.0": [],
+                "libobs.hide_scene_item.LTC - Tape - Amount - 10.0": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -5415,11 +5516,314 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings[instrument_id]=268&query=binance+futures+ltc+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.1&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=3&settings[size_precision]=8&settings[period_width]=20&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true",
+                "width": 1280,
+                "height": 1080,
+                "shutdown": true,
+                "css": ""
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "MATIC - DOM",
+            "uuid": "1ac5247d-1a53-4b8b-902a-405422db1e63",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 2.5% !important; \n}\ntd.pull_stack_bid { \n    width: 2.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.price { \n    width: 3.5% !important; \n}\ntd.bid { \n    width: 2.5% !important; \n}\ntd.ask { \n    width: 2.5% !important; \n}",
+                "shutdown": true,
+                "width": 1080,
+                "height": 1080,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "MATIC- SCALP",
+            "uuid": "87078a89-12ff-4fca-8ae9-e660f24efc60",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 5,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "Color Source MATIC",
+                        "source_uuid": "c7bc5f0d-b670-40ad-aacf-063e4134e408",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "MATIC-5m-VC",
+                        "source_uuid": "fad270e1-d2f5-49ef-a4fe-b85763ec1243",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "MATIC - DOM",
+                        "source_uuid": "1ac5247d-1a53-4b8b-902a-405422db1e63",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1258.0,
+                            "y": 75.0
+                        },
+                        "scale": {
+                            "x": 0.84166663885116577,
+                            "y": 0.84166663885116577
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 310,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "LTC - Tape -500.0",
+                        "source_uuid": "61b5dc90-e50f-47ba-9a8c-597c1cbf6245",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 14.0,
+                            "y": 47.0
+                        },
+                        "scale": {
+                            "x": 0.50925928354263306,
+                            "y": 0.50925928354263306
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 278,
+                        "crop_top": 32,
+                        "crop_right": 230,
+                        "crop_bottom": 460,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "LTC - Tape - Amount - 500.0",
+                        "source_uuid": "7f5608d2-902c-4540-830e-dc0f929c5bb6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 9.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.3444443941116333,
+                            "y": 1.3425925970077515
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 320,
+                        "crop_right": 392,
+                        "crop_bottom": 725,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Color Source MATIC": [],
+                "libobs.hide_scene_item.Color Source MATIC": [],
+                "libobs.show_scene_item.MATIC-5m-VC": [],
+                "libobs.hide_scene_item.MATIC-5m-VC": [],
+                "libobs.show_scene_item.MATIC - DOM": [],
+                "libobs.hide_scene_item.MATIC - DOM": [],
+                "libobs.show_scene_item.LTC - Tape -500.0": [],
+                "libobs.hide_scene_item.LTC - Tape -500.0": [],
+                "libobs.show_scene_item.LTC - Tape - Amount - 500.0": [],
+                "libobs.hide_scene_item.LTC - Tape - Amount - 500.0": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "MATIC-5m-VC",
+            "uuid": "fad270e1-d2f5-49ef-a4fe-b85763ec1243",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
                 "width": 1280,
                 "height": 1080,
                 "css": "",
-                "shutdown": true,
-                "url": "https://cignals.io/vc?settings[instrument_id]=268&query=binance+futures+ltc+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.1&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=3&settings[size_precision]=8&settings[period_width]=20&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true"
+                "url": "https://cignals.io/vc?settings[instrument_id]=114926&query=binance+futures+matic+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.001&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=4&settings[size_precision]=8&settings[period_width]=20&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[cluster_style]=stacked"
             },
             "mixers": 255,
             "sync": 0,
@@ -5647,11 +6051,11 @@
                         "name": "SOL - Tape - Amount - 100.0",
                         "source_uuid": "0f4c3df2-7f47-436d-a404-42c96de57684",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
-                            "y": 0.0
+                            "y": 7.0
                         },
                         "scale": {
                             "x": 1.3450000286102295,
