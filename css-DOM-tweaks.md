@@ -31,7 +31,10 @@
 	}
 
 
-####
+######
+
+#### MISC 
+
     td.pull_stack_ask { 
 	    display: none !important; 
     }
@@ -80,14 +83,7 @@
     }
 
 
-###### MISC. Volume Cluster
 
-	g.volumeProfile { 
-    		display: none !important; 
-	}
-	rect { 
-    		display: none !important;  
-	}
 
 
 		
