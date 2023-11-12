@@ -1,7 +1,19 @@
 #### TAPE Tweaks (CVD, Price & Amount)
 =======================================
 
-All tweaks use 1080x1080 "Browser" OBS Setting.
+![cignals-10](/media/scalp-cvd-tape.png)
+
+#### Tape CVD Scalp
+
+	td.timestamp { 
+  		display: none !important; 
+	}
+	td.amount { 
+  		display: none !important; 
+	}
+	.tape-container { 
+  		height: 56vh; 
+	}
 
 
 ###### TAPE "10" columns.
