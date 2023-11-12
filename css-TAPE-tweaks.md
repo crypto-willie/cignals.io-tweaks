@@ -3,8 +3,6 @@
 
 All tweaks use 1080x1080 "Browser" OBS Setting.
 
-![width-height](/media/width-height.png)
-
 
 ###### TAPE "10" columns.
 ![cignals-10](/media/cignals-10.png)
