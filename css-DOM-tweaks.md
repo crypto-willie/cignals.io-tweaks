@@ -35,6 +35,8 @@
 
 #### Spot DOM
 
+![Screenshot-1](/media/spot dom.png)
+
 	td.pull_stack_ask { 
     		display: none !important; 
 	}
