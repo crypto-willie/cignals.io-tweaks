@@ -3156,7 +3156,7 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 11.0,
+                            "x": 0.0,
                             "y": 23.0
                         },
                         "scale": {
@@ -3540,7 +3540,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "coinbase/btc/usd/spot_",
+                        "name": "OKX/btc/usd/perp",
                         "source_uuid": "29b77cc8-3490-4621-8329-bb6ddd958016",
                         "visible": true,
                         "locked": true,
@@ -3560,7 +3560,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 490,
+                        "crop_left": 485,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 30,
@@ -3839,24 +3839,17 @@
             "alwaysOnTopOverridden": false
         },
         {
+            "name": "Delta Divergence",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAQxAAAAVMAABKjAAACYAAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
+            "alwaysOnTopOverridden": false
+        },
+        {
             "name": "btc/perp/VC/tape",
             "monitor": -1,
             "type": 0,
             "geometry": "AdnQywADAAAAAAN1///7yAAACvL////+AAADdf//++cAAAry/////gAAAAMAAAAADwAAAAN1///75wAACvL////+",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "Delta Divergence",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAQdgAAAJ8AABT3AAADPwAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "btc/spot/dom",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAKUAAAAZUAAAwvAAACogAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -4820,7 +4813,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=3&settings%5Bmax_refresh_rate%5D=144&settings[volume_profile_style]=delta",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=3&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
@@ -5966,7 +5959,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "coinbase/btc/usd/spot_",
+                        "name": "OKX/btc/usd/perp",
                         "source_uuid": "29b77cc8-3490-4621-8329-bb6ddd958016",
                         "visible": true,
                         "locked": true,
@@ -5986,7 +5979,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 490,
+                        "crop_left": 485,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 30,
@@ -6040,7 +6033,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -6232,7 +6225,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -6470,7 +6463,7 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 11.0,
+                            "x": 0.0,
                             "y": 23.0
                         },
                         "scale": {
@@ -6600,10 +6593,10 @@
                 "libobs.hide_scene_item.13": [],
                 "libobs.show_scene_item.26": [],
                 "libobs.hide_scene_item.26": [],
-                "libobs.show_scene_item.8": [],
-                "libobs.hide_scene_item.8": [],
                 "libobs.show_scene_item.49": [],
-                "libobs.hide_scene_item.49": []
+                "libobs.hide_scene_item.49": [],
+                "libobs.show_scene_item.8": [],
+                "libobs.hide_scene_item.8": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -6764,11 +6757,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=false",
                 "width": 1920,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=false"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -6800,11 +6793,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=1h&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=100&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=false&settings[cluster_style]=stacked&settings[volume_profile_style]=delta",
                 "width": 1920,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=1h&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=100&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=false&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -6836,11 +6829,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=30m&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=false",
                 "width": 1920,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=30m&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=false"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -6872,11 +6865,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=4h&settings[price_tick_size]=50.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=110&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=false",
                 "width": 1920,
                 "height": 1080,
-                "css": "",
                 "shutdown": true,
-                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=4h&settings[price_tick_size]=50.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=110&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=false"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -7980,42 +7973,6 @@
                 "height": 1080,
                 "fps_custom": false,
                 "shutdown": false,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
-            "name": "coinbase/btc/usd/spot_",
-            "uuid": "29b77cc8-3490-4621-8329-bb6ddd958016",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=194&query=coinbase+pro+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=3&settings%5Bmax_refresh_rate%5D=144&settings[volume_profile_style]=delta",
-                "width": 1080,
-                "height": 1080,
-                "shutdown": true,
                 "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
@@ -10333,6 +10290,42 @@
                 "height": 1080,
                 "shutdown": true,
                 "css": ""
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "OKX/btc/usd/perp",
+            "uuid": "29b77cc8-3490-4621-8329-bb6ddd958016",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=115918&query=okex+btc+usd+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta",
+                "width": 1080,
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
