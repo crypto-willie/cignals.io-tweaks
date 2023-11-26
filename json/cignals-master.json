@@ -1137,7 +1137,7 @@
                             "x": 0.0,
                             "y": 0.0
                         },
-                        "crop_left": 0,
+                        "crop_left": 620,
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -1251,7 +1251,7 @@
                             "y": 0.0
                         },
                         "scale": {
-                            "x": 0.99999791383743286,
+                            "x": 0.99999785423278809,
                             "y": 1.0
                         },
                         "align": 5,
@@ -1399,11 +1399,11 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 716.06219482421875,
+                            "x": 716.0621337890625,
                             "y": 31.0
                         },
                         "scale": {
-                            "x": 0.9699980616569519,
+                            "x": 0.96999800205230713,
                             "y": 0.96666663885116577
                         },
                         "align": 5,
@@ -1475,7 +1475,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.99999791383743286,
+                            "x": 0.99999785423278809,
                             "y": 358.72225952148438
                         },
                         "scale": {
@@ -1574,198 +1574,6 @@
                 "libobs.hide_scene_item.30": [],
                 "libobs.show_scene_item.31": [],
                 "libobs.hide_scene_item.31": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
-            "name": "Delta Divergence",
-            "uuid": "57b98422-db03-4ac3-916c-dbaa99d780f0",
-            "id": "group",
-            "versioned_id": "group",
-            "settings": {
-                "custom_size": true,
-                "cx": 1920,
-                "cy": 1080,
-                "id_counter": 0,
-                "items": [
-                    {
-                        "name": "BTC 30m Footprint",
-                        "source_uuid": "1d5c473f-f7c8-46a6-b0f6-dcabacad2ec9",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 960.0,
-                            "y": 540.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 44,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC 1H Footprint",
-                        "source_uuid": "e96f12cf-b6b4-4ee7-ab24-d7ad107e0588",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 540.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 43,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC 2H Footprint",
-                        "source_uuid": "b6a8815e-d25e-464d-87cd-6d42030563ac",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 960.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 45,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC 4H Footprint",
-                        "source_uuid": "38a08bd1-cb8f-47dd-89e7-0c542147ca51",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 42,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    }
-                ]
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.show_scene_item.44": [],
-                "libobs.hide_scene_item.44": [],
-                "libobs.show_scene_item.43": [],
-                "libobs.hide_scene_item.43": [],
-                "libobs.show_scene_item.45": [],
-                "libobs.hide_scene_item.45": [],
-                "libobs.show_scene_item.42": [],
-                "libobs.hide_scene_item.42": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2195,6 +2003,198 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "BTC Delta Divergence",
+            "uuid": "57b98422-db03-4ac3-916c-dbaa99d780f0",
+            "id": "group",
+            "versioned_id": "group",
+            "settings": {
+                "custom_size": true,
+                "cx": 1920,
+                "cy": 1080,
+                "id_counter": 0,
+                "items": [
+                    {
+                        "name": "BTC 30m Footprint",
+                        "source_uuid": "1d5c473f-f7c8-46a6-b0f6-dcabacad2ec9",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 960.0,
+                            "y": 540.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 44,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC 1H Footprint",
+                        "source_uuid": "e96f12cf-b6b4-4ee7-ab24-d7ad107e0588",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 540.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 43,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC 2H Footprint",
+                        "source_uuid": "b6a8815e-d25e-464d-87cd-6d42030563ac",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 960.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 45,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC 4H Footprint",
+                        "source_uuid": "38a08bd1-cb8f-47dd-89e7-0c542147ca51",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 42,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.44": [],
+                "libobs.hide_scene_item.44": [],
+                "libobs.show_scene_item.43": [],
+                "libobs.hide_scene_item.43": [],
+                "libobs.show_scene_item.45": [],
+                "libobs.hide_scene_item.45": [],
+                "libobs.show_scene_item.42": [],
+                "libobs.hide_scene_item.42": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
         }
     ],
     "quick_transitions": [
@@ -2226,35 +2226,14 @@
             "name": "btc/perp/VC/tape",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAAr1///7yAAAEnL////+AAAK9f//++cAABJy/////gAAAAMAAAAADwAAAAr1///75wAAEnL////+",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "Delta Divergence",
-            "monitor": -1,
-            "type": 0,
             "geometry": "AdnQywADAAAAAAN1///7yAAACvL////+AAADdf//++cAAAry/////gAAAAMAAAAADwAAAAN1///75wAACvL////+",
             "alwaysOnTopOverridden": false
         },
         {
-            "name": "btc/spot/dom",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAAOe///+vQAABX3////pAAADnv///twAAAV9////6QAAAAMAAAAADwAAAAOe///+3AAABX3////p",
-            "alwaysOnTopOverridden": false
-        },
-        {
             "name": "BTC - Perp Scalp DOM",
-            "monitor": 1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAA8IAAAAAAAAFncAAAQvAAAPAAAAAAAAABZ/AAAENwAAAAEABAAAB4AAAA8AAAAAAAAAFn8AAAQ3",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "ShitCoin DOM Scalp_",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAPjgAAAXoAABFtAAAChwAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
+            "geometry": "AdnQywADAAAAAAr1///7yAAAEnL////+AAAK9f//++cAABJy/////gAAAAMAAAAADwAAAAr1///75wAAEnL////+",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -2411,8 +2390,8 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Blower_charts%5D%5B%5D=open_interest&settings%5Borderbook_enabled%5D=true",
-                "width": 1280,
+                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=20&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true",
+                "width": 1920,
                 "height": 1080,
                 "shutdown": false,
                 "css": ""
@@ -4069,7 +4048,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Delta Divergence",
+                        "name": "BTC Delta Divergence",
                         "source_uuid": "57b98422-db03-4ac3-916c-dbaa99d780f0",
                         "visible": true,
                         "locked": false,
@@ -4094,6 +4073,350 @@
                         "crop_right": 0,
                         "crop_bottom": 0,
                         "id": 49,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        }
+                    },
+                    {
+                        "name": "BTC Colour Source",
+                        "source_uuid": "4b0aaa1f-3606-4c7d-a672-64142bee3da4",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 2.9937653541564941,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.99791884422302246,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - DOM 25.0",
+                        "source_uuid": "5e916b1d-df0f-4aa1-9bd0-29451da10ea5",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 303.36798095703125,
+                            "y": 73.0
+                        },
+                        "scale": {
+                            "x": 0.93446940183639526,
+                            "y": 0.9366336464881897
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 190,
+                        "crop_top": 30,
+                        "crop_right": 0,
+                        "crop_bottom": 30,
+                        "id": 2,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - DOM - 5.0",
+                        "source_uuid": "4c0f5932-3533-472b-87a2-23ca24a4ce1f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 228.56135559082031,
+                            "y": 86.7081298828125
+                        },
+                        "scale": {
+                            "x": 0.89556831121444702,
+                            "y": 0.89760768413543701
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 650,
+                        "crop_top": 30,
+                        "crop_right": 0,
+                        "crop_bottom": 30,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - Tape - 1.0",
+                        "source_uuid": "e251ea0f-73fa-4735-a2b0-3b4cc1127a85",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 726.505126953125,
+                            "y": 39.0
+                        },
+                        "scale": {
+                            "x": 0.1914115697145462,
+                            "y": 0.19166666269302368
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 376,
+                        "crop_top": 0,
+                        "crop_right": 240,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - Tape - Amount - 1.0",
+                        "source_uuid": "b4a72d84-bc89-4f2c-b588-27ea9e05b582",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 714.57342529296875,
+                            "y": 31.0
+                        },
+                        "scale": {
+                            "x": 0.96798133850097656,
+                            "y": 0.96666663885116577
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 540,
+                        "crop_right": 587,
+                        "crop_bottom": 510,
+                        "id": 5,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "binance/btc/usdt/spot_",
+                        "source_uuid": "208fc7d6-dd0b-44ac-ad4d-1ee4ce18c006",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 2.9937653541564941,
+                            "y": 13.0
+                        },
+                        "scale": {
+                            "x": 0.32340061664581299,
+                            "y": 0.32407408952713013
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 490,
+                        "crop_top": 30,
+                        "crop_right": 0,
+                        "crop_bottom": 30,
+                        "id": 29,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "bitfinex/btc/usd/spot_",
+                        "source_uuid": "5fd30ffb-9dee-4fc7-acf9-3b0402d50ec5",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.99791884422302246,
+                            "y": 358.72225952148438
+                        },
+                        "scale": {
+                            "x": 0.32340061664581299,
+                            "y": 0.32407408952713013
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 490,
+                        "crop_top": 30,
+                        "crop_right": 0,
+                        "crop_bottom": 30,
+                        "id": 30,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "OKX/btc/usd/perp",
+                        "source_uuid": "29b77cc8-3490-4621-8329-bb6ddd958016",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 706.0
+                        },
+                        "scale": {
+                            "x": 0.32340061664581299,
+                            "y": 0.32407408952713013
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 485,
+                        "crop_top": 30,
+                        "crop_right": 0,
+                        "crop_bottom": 30,
+                        "id": 31,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - Perp Scalp DOM",
+                        "source_uuid": "bf0b57af-d505-46b4-ad50-dd2c49be8354",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.99792098999023438,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 26,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -4357,7 +4680,7 @@
                             "x": 0.0,
                             "y": 0.0
                         },
-                        "crop_left": 0,
+                        "crop_left": 620,
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -4451,350 +4774,6 @@
                         "private_settings": {
                             "collapsed": true
                         }
-                    },
-                    {
-                        "name": "BTC Colour Source",
-                        "source_uuid": "4b0aaa1f-3606-4c7d-a672-64142bee3da4",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 2.9937653541564941,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.99791890382766724,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 1,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC - DOM 25.0",
-                        "source_uuid": "5e916b1d-df0f-4aa1-9bd0-29451da10ea5",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 303.36798095703125,
-                            "y": 73.0
-                        },
-                        "scale": {
-                            "x": 0.93446940183639526,
-                            "y": 0.9366336464881897
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 190,
-                        "crop_top": 30,
-                        "crop_right": 0,
-                        "crop_bottom": 30,
-                        "id": 2,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC - DOM - 5.0",
-                        "source_uuid": "4c0f5932-3533-472b-87a2-23ca24a4ce1f",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 228.56135559082031,
-                            "y": 86.7081298828125
-                        },
-                        "scale": {
-                            "x": 0.89556831121444702,
-                            "y": 0.89760768413543701
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 650,
-                        "crop_top": 30,
-                        "crop_right": 0,
-                        "crop_bottom": 30,
-                        "id": 3,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC - Tape - 1.0",
-                        "source_uuid": "e251ea0f-73fa-4735-a2b0-3b4cc1127a85",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 726.505126953125,
-                            "y": 39.0
-                        },
-                        "scale": {
-                            "x": 0.1914115697145462,
-                            "y": 0.19166666269302368
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 376,
-                        "crop_top": 0,
-                        "crop_right": 240,
-                        "crop_bottom": 0,
-                        "id": 4,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC - Tape - Amount - 1.0",
-                        "source_uuid": "b4a72d84-bc89-4f2c-b588-27ea9e05b582",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 714.573486328125,
-                            "y": 31.0
-                        },
-                        "scale": {
-                            "x": 0.96798139810562134,
-                            "y": 0.96666663885116577
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 390,
-                        "crop_top": 540,
-                        "crop_right": 587,
-                        "crop_bottom": 510,
-                        "id": 5,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "binance/btc/usdt/spot_",
-                        "source_uuid": "208fc7d6-dd0b-44ac-ad4d-1ee4ce18c006",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 2.9937653541564941,
-                            "y": 13.0
-                        },
-                        "scale": {
-                            "x": 0.32340061664581299,
-                            "y": 0.32407408952713013
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 490,
-                        "crop_top": 30,
-                        "crop_right": 0,
-                        "crop_bottom": 30,
-                        "id": 29,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "bitfinex/btc/usd/spot_",
-                        "source_uuid": "5fd30ffb-9dee-4fc7-acf9-3b0402d50ec5",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.99791890382766724,
-                            "y": 358.72225952148438
-                        },
-                        "scale": {
-                            "x": 0.32340061664581299,
-                            "y": 0.32407408952713013
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 490,
-                        "crop_top": 30,
-                        "crop_right": 0,
-                        "crop_bottom": 30,
-                        "id": 30,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "OKX/btc/usd/perp",
-                        "source_uuid": "29b77cc8-3490-4621-8329-bb6ddd958016",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 706.0
-                        },
-                        "scale": {
-                            "x": 0.32340061664581299,
-                            "y": 0.32407408952713013
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 485,
-                        "crop_top": 30,
-                        "crop_right": 0,
-                        "crop_bottom": 30,
-                        "id": 31,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC - Perp Scalp DOM",
-                        "source_uuid": "bf0b57af-d505-46b4-ad50-dd2c49be8354",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.99792098999023438,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 26,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        }
                     }
                 ]
             },
@@ -4840,7 +4819,7 @@
                 "url": "https://cignals.io/dom?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=&settings[price_tick_size]=5.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[price_precision]=2&settings[size_precision]=8&settings[max_refresh_rate]=120&settings[volume_profile_style]=delta",
                 "width": 1080,
                 "height": 1080,
-                "shutdown": true,
+                "shutdown": false,
                 "css": "td.liquidations { \n    display: none !important;\n}\ntd.pull_stack_ask { \n    width: 6.5% !important;  \n}\ntd.pull_stack_bid { \n    width: 6.5% !important;  \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
@@ -4877,7 +4856,7 @@
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
-                "shutdown": true,
+                "shutdown": false,
                 "css": "td.liquidations { \n    display: none !important;\n}"
             },
             "mixers": 255,
@@ -6506,7 +6485,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 17,
+                "id_counter": 22,
                 "items": [
                     {
                         "name": "ShitCoin Colour Source Background",
@@ -6702,7 +6681,7 @@
                         "name": "ShitCoin DOM Scalp_",
                         "source_uuid": "b26fa464-1e83-4a2b-ae9e-c5c67e9acd3b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
