@@ -896,7 +896,7 @@
                             "y": 0.0
                         },
                         "scale": {
-                            "x": 0.99999749660491943,
+                            "x": 0.99999743700027466,
                             "y": 1.0
                         },
                         "align": 5,
@@ -1044,11 +1044,11 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 716.061767578125,
+                            "x": 716.06170654296875,
                             "y": 31.0
                         },
                         "scale": {
-                            "x": 0.96999764442443848,
+                            "x": 0.9699975848197937,
                             "y": 0.96666663885116577
                         },
                         "align": 5,
@@ -1120,7 +1120,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.99999749660491943,
+                            "x": 0.99999743700027466,
                             "y": 358.72225952148438
                         },
                         "scale": {
@@ -1665,10 +1665,10 @@
                         "name": "BTC 15 Footprint",
                         "source_uuid": "b6a8815e-d25e-464d-87cd-6d42030563ac",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 960.0,
+                            "x": 0.0,
                             "y": 540.0
                         },
                         "scale": {
@@ -1703,11 +1703,11 @@
                         "name": "BTC 30m Footprint",
                         "source_uuid": "1d5c473f-f7c8-46a6-b0f6-dcabacad2ec9",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
-                            "y": 540.0
+                            "y": 0.0
                         },
                         "scale": {
                             "x": 0.5,
@@ -1741,11 +1741,11 @@
                         "name": "BTC 1H Footprint",
                         "source_uuid": "e96f12cf-b6b4-4ee7-ab24-d7ad107e0588",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
                             "x": 960.0,
-                            "y": 0.0
+                            "y": 540.0
                         },
                         "scale": {
                             "x": 0.5,
@@ -1779,10 +1779,10 @@
                         "name": "BTC 4H Footprint",
                         "source_uuid": "38a08bd1-cb8f-47dd-89e7-0c542147ca51",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.0,
+                            "x": 960.0,
                             "y": 0.0
                         },
                         "scale": {
@@ -2180,18 +2180,34 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "BTC Delta Divergence",
-            "monitor": -1,
+            "name": "btc/perp/DOM/tape",
+            "monitor": 1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAAN1///7yAAACvL////+AAADdf//++cAAAry/////gAAAAMAAAAADwAAAAN1///75wAACvL////+",
+            "geometry": "AdnQywADAAAAAA8IAAAAAAAAFncAAAQvAAAPAAAAAAAAABZ/AAAENwAAAAEABAAAB4AAAA8AAAAAAAAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         },
         {
-            "name": "btc/perp/DOM/tape",
+            "name": "BTC Delta Divergence",
             "monitor": -1,
             "type": 0,
             "geometry": "AdnQywADAAAAAAr1///7yAAAEnL////+AAAK9f//++cAABJy/////gAAAAMAAAAADwAAAAr1///75wAAEnL////+",
             "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "btc/spot/dom",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAN8///9mAAABVv///7EAAADfP///bcAAAVb///+xAAAAAMAAAAADwAAAAN8///9twAABVv///7E",
+            "alwaysOnTop": true,
+            "alwaysOnTopOverridden": true
+        },
+        {
+            "name": "btc/spot/tape",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAOE///+zQAABWP////5AAADhP///uwAAAVj////+QAAAAMAAAAADwAAAAOE///+7AAABWP////5",
+            "alwaysOnTop": true,
+            "alwaysOnTopOverridden": true
         }
     ],
     "current_transition": "Fade",
@@ -2634,12 +2650,12 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "undo_uuid": "208fc7d6-dd0b-44ac-ad4d-1ee4ce18c006",
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "undo_uuid": "208fc7d6-dd0b-44ac-ad4d-1ee4ce18c006"
+                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -2744,12 +2760,12 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "undo_uuid": "5fd30ffb-9dee-4fc7-acf9-3b0402d50ec5",
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=1892223&query=bitget+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "undo_uuid": "5fd30ffb-9dee-4fc7-acf9-3b0402d50ec5"
+                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -2987,7 +3003,7 @@
                             "y": 0.0
                         },
                         "scale": {
-                            "x": 0.99791848659515381,
+                            "x": 0.99791842699050903,
                             "y": 1.0
                         },
                         "align": 5,
@@ -3135,11 +3151,11 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 714.57305908203125,
+                            "x": 714.572998046875,
                             "y": 31.0
                         },
                         "scale": {
-                            "x": 0.96798098087310791,
+                            "x": 0.96798092126846313,
                             "y": 0.96666663885116577
                         },
                         "align": 5,
@@ -3211,7 +3227,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.99791848659515381,
+                            "x": 0.99791842699050903,
                             "y": 358.72225952148438
                         },
                         "scale": {
@@ -4161,198 +4177,6 @@
                         }
                     },
                     {
-                        "name": "BTC 15 Footprint",
-                        "source_uuid": "b6a8815e-d25e-464d-87cd-6d42030563ac",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 960.0,
-                            "y": 540.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 45,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC 30m Footprint",
-                        "source_uuid": "1d5c473f-f7c8-46a6-b0f6-dcabacad2ec9",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 540.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 44,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC 1H Footprint",
-                        "source_uuid": "e96f12cf-b6b4-4ee7-ab24-d7ad107e0588",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 960.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 43,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC 4H Footprint",
-                        "source_uuid": "38a08bd1-cb8f-47dd-89e7-0c542147ca51",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.5,
-                            "y": 0.5
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 42,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC Delta Divergence",
-                        "source_uuid": "57b98422-db03-4ac3-916c-dbaa99d780f0",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 49,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        }
-                    },
-                    {
                         "name": "Colour Source btc/15m",
                         "source_uuid": "e3dacd2c-6492-4936-a5e8-76a380d45c72",
                         "visible": true,
@@ -4657,6 +4481,198 @@
                         "private_settings": {
                             "collapsed": true
                         }
+                    },
+                    {
+                        "name": "BTC 15 Footprint",
+                        "source_uuid": "b6a8815e-d25e-464d-87cd-6d42030563ac",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 540.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 45,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC 30m Footprint",
+                        "source_uuid": "1d5c473f-f7c8-46a6-b0f6-dcabacad2ec9",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 44,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC 1H Footprint",
+                        "source_uuid": "e96f12cf-b6b4-4ee7-ab24-d7ad107e0588",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 960.0,
+                            "y": 540.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 43,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC 4H Footprint",
+                        "source_uuid": "38a08bd1-cb8f-47dd-89e7-0c542147ca51",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 960.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 42,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC Delta Divergence",
+                        "source_uuid": "57b98422-db03-4ac3-916c-dbaa99d780f0",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 49,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": false
+                        }
                     }
                 ]
             },
@@ -4673,6 +4689,10 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.52": [],
+                "libobs.hide_scene_item.52": [],
+                "libobs.show_scene_item.26": [],
+                "libobs.hide_scene_item.26": [],
                 "libobs.show_scene_item.14": [],
                 "libobs.hide_scene_item.14": [],
                 "libobs.show_scene_item.13": [],
@@ -4680,11 +4700,7 @@
                 "libobs.show_scene_item.49": [],
                 "libobs.hide_scene_item.49": [],
                 "libobs.show_scene_item.8": [],
-                "libobs.hide_scene_item.8": [],
-                "libobs.show_scene_item.26": [],
-                "libobs.hide_scene_item.26": [],
-                "libobs.show_scene_item.52": [],
-                "libobs.hide_scene_item.52": []
+                "libobs.hide_scene_item.8": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -4808,10 +4824,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
@@ -4844,11 +4860,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=144&settings[volume_profile_style]=delta\n"
+                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
