@@ -1121,44 +1121,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "ETH  - Tape",
-                        "source_uuid": "68e02a3f-5499-4df7-bd30-1a1268cbf5a5",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1362.0,
-                            "y": 61.180599212646484
-                        },
-                        "scale": {
-                            "x": 0.91203701496124268,
-                            "y": 0.91203701496124268
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 220,
-                        "crop_top": 30,
-                        "crop_right": 280,
-                        "crop_bottom": 0,
-                        "id": 3,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "ETH  - DOM",
                         "source_uuid": "536e545a-23a7-4ef8-9c75-dcc08f367624",
                         "visible": true,
@@ -1195,6 +1157,82 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "ETH  - Tape - 1.0",
+                        "source_uuid": "68e02a3f-5499-4df7-bd30-1a1268cbf5a5",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1362.0,
+                            "y": 25.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 300,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ETH - Tape - 100.0",
+                        "source_uuid": "0d6c92dd-8a50-4efc-bc7a-16c7c107ac55",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1362.0,
+                            "y": 700.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 680,
+                        "id": 15,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -1212,10 +1250,12 @@
             "hotkeys": {
                 "libobs.show_scene_item.4": [],
                 "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
                 "libobs.show_scene_item.3": [],
                 "libobs.hide_scene_item.3": [],
-                "libobs.show_scene_item.5": [],
-                "libobs.hide_scene_item.5": []
+                "libobs.show_scene_item.15": [],
+                "libobs.hide_scene_item.15": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1623,14 +1663,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SOL  - Tape",
+                        "name": "SOL  - Tape - 1.0",
                         "source_uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 1362.0,
-                            "y": 61.18060302734375
+                            "y": 25.0
                         },
                         "scale": {
                             "x": 0.91203701496124268,
@@ -1646,8 +1686,46 @@
                         "crop_left": 220,
                         "crop_top": 30,
                         "crop_right": 280,
-                        "crop_bottom": 0,
+                        "crop_bottom": 300,
                         "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SOL Tape - 100.0",
+                        "source_uuid": "104501f2-e6d2-4b0d-b87e-3f3f8f26c7fe",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1362.0,
+                            "y": 700.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 680,
+                        "id": 14,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -1679,7 +1757,9 @@
                 "libobs.show_scene_item.5": [],
                 "libobs.hide_scene_item.5": [],
                 "libobs.show_scene_item.4": [],
-                "libobs.hide_scene_item.4": []
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.14": [],
+                "libobs.hide_scene_item.14": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2097,24 +2177,24 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "btc/perp/DOM/tape",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAABSgAAAACgAAFn8AAAE2AAAUoAAAACkAABZ/AAABNgAAAAEAAAAAB4AAABSgAAAAKQAAFn8AAAE2",
-            "alwaysOnTopOverridden": false
-        },
-        {
             "name": "DOM | Tape | SOL",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAABSnAAACdwAAFoYAAAOjAAAUpwAAApYAABaGAAADowAAAAEAAAAAB4AAABSnAAAClgAAFoYAAAOj",
+            "geometry": "AdnQywADAAAAAAWaAAACdgAAB3kAAAOiAAAFmgAAApUAAAd5AAADogAAAAAAAAAAB4AAAAWaAAAClQAAB3kAAAOi",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "btc/perp/DOM/tape",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAQ7wAAAXQAABLOAAACgAAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         },
         {
             "name": "DOM | Tape | ETH",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAABSlAAABQQAAFoQAAAJtAAAUpQAAAWAAABaEAAACbQAAAAEAAAAAB4AAABSlAAABYAAAFoQAAAJt",
+            "geometry": "AdnQywADAAAAAAFGAAAA8wAAAyUAAAIfAAABRgAAARIAAAMlAAACHwAAAAAAAAAAB4AAAAFGAAABEgAAAyUAAAIf",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -3435,7 +3515,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -4656,7 +4736,7 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 14,
+                "id_counter": 15,
                 "custom_size": false,
                 "items": [
                     {
@@ -4890,44 +4970,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "ETH  - Tape",
-                        "source_uuid": "68e02a3f-5499-4df7-bd30-1a1268cbf5a5",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1362.0,
-                            "y": 61.180599212646484
-                        },
-                        "scale": {
-                            "x": 0.91203701496124268,
-                            "y": 0.91203701496124268
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 220,
-                        "crop_top": 30,
-                        "crop_right": 280,
-                        "crop_bottom": 0,
-                        "id": 3,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "ETH  - DOM",
                         "source_uuid": "536e545a-23a7-4ef8-9c75-dcc08f367624",
                         "visible": true,
@@ -4966,10 +5008,86 @@
                         "private_settings": {}
                     },
                     {
+                        "name": "ETH  - Tape - 1.0",
+                        "source_uuid": "68e02a3f-5499-4df7-bd30-1a1268cbf5a5",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1362.0,
+                            "y": 25.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 300,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ETH - Tape - 100.0",
+                        "source_uuid": "0d6c92dd-8a50-4efc-bc7a-16c7c107ac55",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1362.0,
+                            "y": 700.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 680,
+                        "id": 15,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
                         "name": "DOM | Tape | ETH",
                         "source_uuid": "cf693642-b194-4003-b164-31135d9006ea",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -5068,16 +5186,52 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "ETH  - Tape",
+            "name": "ETH  - Tape - 1.0",
             "uuid": "68e02a3f-5499-4df7-bd30-1a1268cbf5a5",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=0.5&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=1.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 67.5vh; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "ETH - Tape - 100.0",
+            "uuid": "0d6c92dd-8a50-4efc-bc7a-16c7c107ac55",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
             },
             "mixers": 255,
             "sync": 0,
@@ -5253,7 +5407,7 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 13,
+                "id_counter": 14,
                 "custom_size": false,
                 "items": [
                     {
@@ -5412,7 +5566,7 @@
                         "name": "SOL Delta Divergence",
                         "source_uuid": "db01244e-5c92-4d6b-951c-c5af47f88c2b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -5525,14 +5679,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SOL  - Tape",
+                        "name": "SOL  - Tape - 1.0",
                         "source_uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 1362.0,
-                            "y": 61.18060302734375
+                            "y": 25.0
                         },
                         "scale": {
                             "x": 0.91203701496124268,
@@ -5548,8 +5702,46 @@
                         "crop_left": 220,
                         "crop_top": 30,
                         "crop_right": 280,
-                        "crop_bottom": 0,
+                        "crop_bottom": 300,
                         "id": 4,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SOL Tape - 100.0",
+                        "source_uuid": "104501f2-e6d2-4b0d-b87e-3f3f8f26c7fe",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1362.0,
+                            "y": 700.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 680,
+                        "id": 14,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -5629,17 +5821,17 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "SOL  - Tape",
+            "name": "SOL  - Tape - 1.0",
             "uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
                 "undo_uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
-                "url": "https://cignals.io/tape?settings[instrument_id]=114373&query=binance+futures+sol+usdt+perp&settings[price_precision]=3&settings[size_precision]=8&settings[scrollback_length]=1000&settings[min_size_filter]=25.0&settings[size_display]=amount&settings[max_refresh_rate]=120",
+                "url": "https://cignals.io/tape?settings[instrument_id]=114373&query=binance+futures+sol+usdt+perp&settings[price_precision]=3&settings[size_precision]=8&settings[scrollback_length]=1000&settings[min_size_filter]=1.0&settings[size_display]=amount&settings[max_refresh_rate]=120",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 67.5vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -5848,6 +6040,43 @@
                 "shutdown": true,
                 "css": "",
                 "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114373&query=binance+futures+sol+usdt+perp&settings%5Btime_tick_size%5D=4h&settings%5Bprice_tick_size%5D=0.25&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=stacked"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "SOL Tape - 100.0",
+            "uuid": "104501f2-e6d2-4b0d-b87e-3f3f8f26c7fe",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "url": "https://cignals.io/tape?settings[instrument_id]=114373&query=binance+futures+sol+usdt+perp&settings[price_precision]=3&settings[size_precision]=8&settings[scrollback_length]=1000&settings[min_size_filter]=100.0&settings[size_display]=amount&settings[max_refresh_rate]=120",
+                "undo_uuid": "104501f2-e6d2-4b0d-b87e-3f3f8f26c7fe"
             },
             "mixers": 255,
             "sync": 0,
