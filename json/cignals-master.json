@@ -1159,7 +1159,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "ETH - Tape - 100.0",
+                        "name": "ETH - Tape - 50.0",
                         "source_uuid": "0d6c92dd-8a50-4efc-bc7a-16c7c107ac55",
                         "visible": true,
                         "locked": false,
@@ -2175,7 +2175,29 @@
         }
     ],
     "transitions": [],
-    "saved_projectors": [],
+    "saved_projectors": [
+        {
+            "name": "btc/perp/DOM/tape",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAPFgAAACQAABD1AAABMQAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "DOM | Tape | SOL",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAWNAAACfgAAB2wAAAOqAAAFjQAAAp0AAAdsAAADqgAAAAAAAAAAB4AAAAWNAAACnQAAB2wAAAOq",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "DOM | Tape | ETH",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAWOAAABRwAAB20AAAJzAAAFjgAAAWYAAAdtAAACcwAAAAAAAAAAB4AAAAWOAAABZgAAB20AAAJz",
+            "alwaysOnTopOverridden": false
+        }
+    ],
     "current_transition": "Fade",
     "transition_duration": 300,
     "preview_locked": false,
@@ -4986,7 +5008,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "ETH - Tape - 100.0",
+                        "name": "ETH - Tape - 50.0",
                         "source_uuid": "0d6c92dd-8a50-4efc-bc7a-16c7c107ac55",
                         "visible": true,
                         "locked": false,
@@ -5200,12 +5222,12 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "ETH - Tape - 100.0",
+            "name": "ETH - Tape - 50.0",
             "uuid": "0d6c92dd-8a50-4efc-bc7a-16c7c107ac55",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=50.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": false,
