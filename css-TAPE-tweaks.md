@@ -4,22 +4,23 @@
  	td.timestamp { 
   		display: none !important; 
 	}
-	
+ 
  	td.amount { 
   		display: none !important; 
 	}
-    	
-     td.z { 
+ 
+ 	td.z { 
       		display: none !important; 
     	}
-	
- 	.tape-container { 
+     
+     	.tape-container { 
   		height: 50vh; 
 	}
-     	
-	td.cvd { 
+ 
+ 	td.cvd { 
 	    	display: none !important; 
     	}
+     
      
 
 
