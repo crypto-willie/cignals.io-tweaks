@@ -13,14 +13,15 @@
  	td.z { 
   		display: none !important; 
     	}
-     
-     	.tape-container { 
-      		height: 50vh; 
-	}
  
  	td.cvd { 
 	    	display: none !important; 
     	}
 
+#
+
+     	.tape-container { 
+      		height: 50vh; 
+	}
 
 
