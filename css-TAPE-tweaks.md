@@ -10,7 +10,7 @@
 	}
  
  	td.z { 
-      		display: none !important; 
+  		display: none !important; 
     	}
      
      	.tape-container { 
