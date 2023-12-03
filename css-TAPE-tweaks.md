@@ -9,7 +9,7 @@
   		display: none !important; 
 	}
     	
-     	td.z { 
+     td.z { 
       		display: none !important; 
     	}
 	
