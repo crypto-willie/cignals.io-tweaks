@@ -4,6 +4,10 @@
 
 ![Screenshot-1](/media/cignals-BTC-tweaks.png)
 
+##### Shitcoin Tweaks
+
+![Screenshot-1](/media/cignals-shitcoin-tweaks.png)
+
 My master OBS Scene Selection [cignals-master](/json/cignals-master.json)
 
 
