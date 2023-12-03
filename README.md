@@ -8,16 +8,16 @@
 
 ![Screenshot-1](/media/cignals-shitcoin-tweaks.png)
 
-  # Current Shitcoin List:
-  # ETH
-  # SOL
-  # AVAX
-  # FET
-  # LDO
-  # LINK
-  # MATIC
-  # OCEAN
-  # OP
+  #### Current Shitcoin List:
+    * ETH
+    * SOL
+    * AVAX
+    * FET
+    * LDO
+    * LINK
+    * MATIC
+    * OCEAN
+    * OP
   
 My master OBS Scene Selection [cignals-master](/json/cignals-master.json)
 
