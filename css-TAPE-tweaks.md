@@ -20,8 +20,8 @@
 
 #
 
-     	.tape-container { 
-      		height: 50vh; 
+     .tape-container { 
+      	height: 50vh; 
 	}
 
 
