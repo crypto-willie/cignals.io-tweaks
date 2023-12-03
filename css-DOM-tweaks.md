@@ -2,9 +2,6 @@
 
 ##### Scalp DOM
 
-![Screenshot-1](/media/scalp_dom.png)
-
-
 	td.liquidations { 
     		display: none !important;
 	}
