@@ -1,6 +1,7 @@
 #### TAPE Tweaks (CVD, Price & Amount)
 =======================================
 
+
  	td.timestamp { 
   		display: none !important; 
 	}
@@ -20,8 +21,6 @@
  	td.cvd { 
 	    	display: none !important; 
     	}
-     
-     
 
 
 
