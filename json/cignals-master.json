@@ -1,6 +1,6 @@
 {
-    "current_scene": "Shitcoin Footprints",
-    "current_program_scene": "Shitcoin Footprints",
+    "current_scene": "BTC_",
+    "current_program_scene": "BTC_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -16,6 +16,9 @@
         },
         {
             "name": "Shitcoin DOM"
+        },
+        {
+            "name": "Shitcoin Tape Tick"
         }
     ],
     "name": "cignals-master",
@@ -1435,7 +1438,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SOL  - Tape - 1.0",
+                        "name": "SOL  - Tape - 10.0",
                         "source_uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
                         "visible": true,
                         "locked": true,
@@ -1781,7 +1784,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LINK  - Tape - 500.0",
+                        "name": "LINK  - Tape - 1K",
                         "source_uuid": "8d870a66-29c9-4330-a7ed-bcd475d958a3",
                         "visible": true,
                         "locked": true,
@@ -4761,6 +4764,438 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": " Tape Tick_",
+            "uuid": "abee1434-99e2-408b-b9e7-cd388c802ef8",
+            "id": "group",
+            "versioned_id": "group",
+            "settings": {
+                "id_counter": 0,
+                "custom_size": true,
+                "cx": 1920,
+                "cy": 1080,
+                "items": [
+                    {
+                        "name": "Color Source  Tape Tick",
+                        "source_uuid": "d8062578-a279-4fcd-97d4-a6a251c8e12d",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "9  Tape Tick",
+                        "source_uuid": "0a6be7c2-eef6-4acd-8c02-a13a5e2e89c9",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1280.0,
+                            "y": 715.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 11,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "8  Tape Tick",
+                        "source_uuid": "5395784d-1829-4d1c-b8a5-c424b9f8dc35",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 640.0,
+                            "y": 715.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 10,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "7  Tape Tick",
+                        "source_uuid": "5ba50ed3-72dc-4b9a-a854-70b736b341ed",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 715.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 9,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "6 Tape Tick",
+                        "source_uuid": "e1fe7c86-3762-43be-bd9b-dab50d086ad5",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1280.0,
+                            "y": 357.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 8,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "5 Tape Tick",
+                        "source_uuid": "4d0aa66e-e30c-48f6-9140-0fb836f4df9f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 640.0,
+                            "y": 357.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 7,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "4 Tape Tick",
+                        "source_uuid": "b9a4442d-20b6-4703-99ce-6c7d603ddefd",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 365.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 6,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "3 Tape Tick",
+                        "source_uuid": "5e159acb-b29a-426c-84fe-723f2ca99f7a",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 640.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "2 Tape Tick",
+                        "source_uuid": "91fbef7b-86a3-4949-9523-23e9b7cb7b65",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1280.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "1 TAPE TICK",
+                        "source_uuid": "f0271979-9494-4ee6-8e34-65363c097ccc",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.11": [],
+                "libobs.hide_scene_item.11": [],
+                "libobs.show_scene_item.10": [],
+                "libobs.hide_scene_item.10": [],
+                "libobs.show_scene_item.9": [],
+                "libobs.hide_scene_item.9": [],
+                "libobs.show_scene_item.8": [],
+                "libobs.hide_scene_item.8": [],
+                "libobs.show_scene_item.7": [],
+                "libobs.hide_scene_item.7": [],
+                "libobs.show_scene_item.6": [],
+                "libobs.hide_scene_item.6": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
         }
     ],
     "quick_transitions": [
@@ -4789,13 +5224,6 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "DOM | Tape | ETH",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAABRKAAAAKgAAFikAAAFWAAAUSgAAAEkAABYpAAABVgAAAAEAAAAAB4AAABRKAAAASQAAFikAAAFW",
-            "alwaysOnTopOverridden": false
-        },
-        {
             "name": "btc/perp/DOM/tape",
             "monitor": -1,
             "type": 0,
@@ -4803,31 +5231,17 @@
             "alwaysOnTopOverridden": false
         },
         {
-            "name": "DOM | Tape | SOL",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAABRNAAABYgAAFiwAAAKOAAAUTQAAAYEAABYsAAACjgAAAAEAAAAAB4AAABRNAAABgQAAFiwAAAKO",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "SOL  Footprint",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAABJmAAABZgAAFEUAAAKSAAASZgAAAYUAABRFAAACkgAAAAEAAAAAB4AAABJmAAABhQAAFEUAAAKS",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "ETH  Footprint",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAABJiAAAAKwAAFEEAAAFXAAASYgAAAEoAABRBAAABVwAAAAEAAAAAB4AAABJiAAAASgAAFEEAAAFX",
-            "alwaysOnTopOverridden": false
-        },
-        {
             "name": "BTC Footprint",
             "monitor": -1,
             "type": 0,
             "geometry": "AdnQywADAAAAAAP0///7yAAAC3H////+AAAD9P//++cAAAtx/////gAAAAMAAAAADwAAAAP0///75wAAC3H////+",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "Shitcoin Tape Tick",
+            "monitor": -1,
+            "type": 1,
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAQfgAAAbwAABJdAAACyQAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -4917,6 +5331,42 @@
                 "height": 1080,
                 "fps_custom": true,
                 "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "1 TAPE TICK",
+            "uuid": "f0271979-9494-4ee6-8e34-65363c097ccc",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "width": 1080,
+                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=10.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -5051,6 +5501,42 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "2 Tape Tick",
+            "uuid": "91fbef7b-86a3-4949-9523-23e9b7cb7b65",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "height": 1080,
+                "width": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "25.0 bitfinex spot",
             "uuid": "62ef359a-47fd-41ae-aefe-a706c8366e75",
             "id": "browser_source",
@@ -5087,6 +5573,114 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "3 Tape Tick",
+            "uuid": "5e159acb-b29a-426c-84fe-723f2ca99f7a",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "url": "https://cignals.io/tape?settings[instrument_id]=114373&query=binance+futures+sol+usdt+perp&settings[price_precision]=3&settings[size_precision]=8&settings[scrollback_length]=100&settings[min_size_filter]=100.0&settings[size_display]=amount&settings[max_refresh_rate]=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "4 Tape Tick",
+            "uuid": "b9a4442d-20b6-4703-99ce-6c7d603ddefd",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true,
+                "height": 1080,
+                "width": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=227169433&query=binance+futures+fet+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "5 Tape Tick",
+            "uuid": "4d0aa66e-e30c-48f6-9140-0fb836f4df9f",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true,
+                "width": 1080,
+                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "5.0 bitfinex spot",
             "uuid": "8be06227-e3b8-4b59-94b5-aa71bc93c895",
             "id": "browser_source",
@@ -5097,6 +5691,150 @@
                 "height": 1080,
                 "fps_custom": true,
                 "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "6 Tape Tick",
+            "uuid": "e1fe7c86-3762-43be-bd9b-dab50d086ad5",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=250.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "7  Tape Tick",
+            "uuid": "5ba50ed3-72dc-4b9a-a854-70b736b341ed",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true,
+                "width": 1080,
+                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "8  Tape Tick",
+            "uuid": "5395784d-1829-4d1c-b8a5-c424b9f8dc35",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true,
+                "height": 1080,
+                "width": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "9  Tape Tick",
+            "uuid": "0a6be7c2-eef6-4acd-8c02-a13a5e2e89c9",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true,
+                "height": 1080,
+                "width": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116540&query=binance+futures+op+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
             },
             "mixers": 255,
             "sync": 0,
@@ -7512,6 +8250,32 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "Color Source  Tape Tick",
+            "uuid": "d8062578-a279-4fcd-97d4-a6a251c8e12d",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4281017633
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "Color Source 6",
             "uuid": "2f3916e5-ae15-400c-abc2-6a3797027570",
             "id": "color_source",
@@ -7598,7 +8362,7 @@
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=269&query=binance+futures+eth+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.5&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
-                "shutdown": true,
+                "shutdown": false,
                 "css": ""
             },
             "mixers": 255,
@@ -8006,7 +8770,7 @@
                         "name": "ETH  Footprint",
                         "source_uuid": "4a4fc4aa-069e-4681-99e4-daa9d3410913",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -8198,7 +8962,7 @@
                         "name": "DOM | Tape | ETH",
                         "source_uuid": "cf693642-b194-4003-b164-31135d9006ea",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -8790,7 +9554,7 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "LINK  - Tape - 500.0",
+            "name": "LINK  - Tape - 1K",
             "uuid": "8d870a66-29c9-4330-a7ed-bcd475d958a3",
             "id": "browser_source",
             "versioned_id": "browser_source",
@@ -10491,7 +11255,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LINK  - Tape - 500.0",
+                        "name": "LINK  - Tape - 1K",
                         "source_uuid": "8d870a66-29c9-4330-a7ed-bcd475d958a3",
                         "visible": true,
                         "locked": true,
@@ -12608,7 +13372,460 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "SOL  - Tape - 1.0",
+            "name": "Shitcoin Tape Tick",
+            "uuid": "358723e1-dab4-4a5e-8ef0-3e0ef7916796",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 12,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "Color Source  Tape Tick",
+                        "source_uuid": "d8062578-a279-4fcd-97d4-a6a251c8e12d",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "9  Tape Tick",
+                        "source_uuid": "0a6be7c2-eef6-4acd-8c02-a13a5e2e89c9",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1280.0,
+                            "y": 715.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 11,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "8  Tape Tick",
+                        "source_uuid": "5395784d-1829-4d1c-b8a5-c424b9f8dc35",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 640.0,
+                            "y": 715.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 10,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "7  Tape Tick",
+                        "source_uuid": "5ba50ed3-72dc-4b9a-a854-70b736b341ed",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 715.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 9,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "6 Tape Tick",
+                        "source_uuid": "e1fe7c86-3762-43be-bd9b-dab50d086ad5",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1280.0,
+                            "y": 357.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 8,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "5 Tape Tick",
+                        "source_uuid": "4d0aa66e-e30c-48f6-9140-0fb836f4df9f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 640.0,
+                            "y": 357.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 7,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "4 Tape Tick",
+                        "source_uuid": "b9a4442d-20b6-4703-99ce-6c7d603ddefd",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 365.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 6,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "3 Tape Tick",
+                        "source_uuid": "5e159acb-b29a-426c-84fe-723f2ca99f7a",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 640.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 4,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "2 Tape Tick",
+                        "source_uuid": "91fbef7b-86a3-4949-9523-23e9b7cb7b65",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1280.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 5,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "1 TAPE TICK",
+                        "source_uuid": "f0271979-9494-4ee6-8e34-65363c097ccc",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 35,
+                        "crop_right": 220,
+                        "crop_bottom": 680,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": " Tape Tick_",
+                        "source_uuid": "abee1434-99e2-408b-b9e7-cd388c802ef8",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 12,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        }
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.12": [],
+                "libobs.hide_scene_item.12": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "SOL  - Tape - 10.0",
             "uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
             "id": "browser_source",
             "versioned_id": "browser_source",
@@ -12681,7 +13898,7 @@
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114373&query=binance+futures+sol+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
-                "shutdown": true,
+                "shutdown": false,
                 "css": ""
             },
             "mixers": 255,
@@ -13054,7 +14271,7 @@
                         "name": "SOL  Footprint",
                         "source_uuid": "db01244e-5c92-4d6b-951c-c5af47f88c2b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -13205,7 +14422,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SOL  - Tape - 1.0",
+                        "name": "SOL  - Tape - 10.0",
                         "source_uuid": "457d9ccc-4622-4c30-9b8e-78b9b81804e9",
                         "visible": true,
                         "locked": true,
@@ -13246,7 +14463,7 @@
                         "name": "DOM | Tape | SOL",
                         "source_uuid": "b26fa464-1e83-4a2b-ae9e-c5c67e9acd3b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
