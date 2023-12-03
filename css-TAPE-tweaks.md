@@ -17,9 +17,10 @@
   		height: 50vh; 
 	}
      	
-      	td.cvd { 
+      td.cvd { 
 	    	display: none !important; 
     	}
+     
 
 
 
