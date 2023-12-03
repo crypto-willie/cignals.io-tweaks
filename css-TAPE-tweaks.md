@@ -15,7 +15,7 @@
     	}
      
      	.tape-container { 
-  		height: 50vh; 
+      		height: 50vh; 
 	}
  
  	td.cvd { 
