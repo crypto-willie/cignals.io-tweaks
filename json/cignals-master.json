@@ -1,6 +1,6 @@
 {
-    "current_scene": "Shitcoin Multiple Tape Tick",
-    "current_program_scene": "Shitcoin Multiple Tape Tick",
+    "current_scene": "BTC_",
+    "current_program_scene": "BTC_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -3925,7 +3925,7 @@
                         "name": "Shitcoin Multiple DOM 3",
                         "source_uuid": "36ffedc9-94be-4b02-bb95-aeb81202d6db",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 1346.25,
@@ -3963,7 +3963,7 @@
                         "name": "Shitcoin Multiple DOM 2",
                         "source_uuid": "24ead2c9-cf8f-4986-b594-0fe6d605bb1f",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 660.0,
@@ -4001,7 +4001,7 @@
                         "name": "Shitcoin Multiple DOM 1",
                         "source_uuid": "a753538b-5cc2-4139-b674-efbc967a7182",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -5434,24 +5434,17 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "DOM | Tape | SOL",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAAy6///+hgAADpn///+zAAAMuv///qUAAA6Z////swAAAAMAAAAADwAAAAy6///+pQAADpn///+z",
-            "alwaysOnTopOverridden": false
-        },
-        {
             "name": "DOM | Tape | ETH",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAArG///+hgAADKX///+yAAAKxv///qUAAAyl////sgAAAAMAAAAADwAAAArG///+pQAADKX///+y",
+            "geometry": "AdnQywADAAAAAAt0///7yAAAEvH////+AAALdP//++cAABLx/////gAAAAMAAAAADwAAAAt0///75wAAEvH////+",
             "alwaysOnTopOverridden": false
         },
         {
             "name": "btc/perp/DOM/tape",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAAjN///+iwAACqz///+3AAAIzf///qoAAAqs////twAAAAMAAAAADwAAAAjN///+qgAACqz///+3",
+            "geometry": "AdnQywADAAAAAAP0///7yAAAC3H////+AAAD9P//++cAAAtx/////gAAAAMAAAAADwAAAAP0///75wAAC3H////+",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -13813,7 +13806,7 @@
                         "name": "Shitcoin Multiple DOM 3",
                         "source_uuid": "36ffedc9-94be-4b02-bb95-aeb81202d6db",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 1346.25,
@@ -13851,7 +13844,7 @@
                         "name": "Shitcoin Multiple DOM 2",
                         "source_uuid": "24ead2c9-cf8f-4986-b594-0fe6d605bb1f",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 660.0,
@@ -13889,7 +13882,7 @@
                         "name": "Shitcoin Multiple DOM 1",
                         "source_uuid": "a753538b-5cc2-4139-b674-efbc967a7182",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -13926,7 +13919,7 @@
                     {
                         "name": "Shitcoin Multiple DOM_",
                         "source_uuid": "ab9e6718-fa32-4e02-9599-a48f594bd5c5",
-                        "visible": true,
+                        "visible": false,
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
@@ -14487,7 +14480,7 @@
                     {
                         "name": " Tape Tick_",
                         "source_uuid": "abee1434-99e2-408b-b9e7-cd388c802ef8",
-                        "visible": true,
+                        "visible": false,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
