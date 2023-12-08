@@ -2,14 +2,12 @@
 
 ##### Scalp DOM
 
-	td.liquidations { 
-    		display: none !important;
-	}
+
 	td.pull_stack_ask { 
-    		width: 2.5% !important; 
+    		width: 7.5% !important;
 	}
 	td.pull_stack_bid { 
-    		width: 2.5% !important; 
+    		width: 7.5% !important;; 
 	}
 	td.sell { 
     		display: none !important;
@@ -17,14 +15,20 @@
 	td.buy { 
     		display: none !important;
 	}
+	td.volume { 
+    		display: none !important; 
+	}
+	td.delta { 
+    		display: none !important; 
+	}
 	td.price { 
-    		width: 3.5% !important; 
+    		width: 5% !important; 
 	}
 	td.bid { 
-    		width: 2.5% !important; 
+    		width: 6.5% !important; 
 	}
 	td.ask { 
-    		width: 2.5% !important; 
+    		width: 6.5% !important; 
 	}
 
 
