@@ -4,6 +4,7 @@
 
 	td.liquidations { 
     		display: none !important;
+      	}
 
 ##### Scalp DOM
 
