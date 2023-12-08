@@ -4,6 +4,8 @@ Did re-design for custom .css after months practicing learning order flow, espec
 
 Not familar with OBS?  Google your friend!  DYOR! 
 
+Import .css under "Scene Collection".
+
 First time you open OBS you will need add your cignals log in & pass by clicking "Interact" on any "Browser" found under "Souce".   Close OBS and reopen!  
 
 You can copy paste cignals links in OBS if you want to tweak anything.  Or edit URL.  Under "Properties"
