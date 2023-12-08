@@ -1,5 +1,10 @@
 ##### DOM Tweaks
 
+#### Misc
+
+	td.liquidations { 
+    		display: none !important;
+
 ##### Scalp DOM
 
 
