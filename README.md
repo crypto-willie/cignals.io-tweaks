@@ -2,6 +2,10 @@
 
 ##### BTC Tweaks
 
+Did re-design for custom .css after months practicing learning order flow, especially DOM.  I left old DOM with Tape incase I ever decided to share.  I use Custom Scalp to trade.  It has everything I need on 1 screen. 
+
+Enjoy!
+
 ![Screenshot-1](/media/cignals-BTC-tweaks.png)
 
 ##### Shitcoin Tweaks
