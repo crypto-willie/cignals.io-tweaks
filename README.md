@@ -29,9 +29,9 @@ Enjoy!
     * FET
     * LDO
     * LINK
-    * MATIC
-    * OCEAN
-    * OP
+    * MATIC - No Scalp - DOM & Tape Only
+    * OCEAN - No Scalp - DOM & Tape Only
+    * OP - No Scalp - DOM & Tape Only
   
 My master OBS Scene Selection [cignals-master](/json/cignals-master.json)
 
