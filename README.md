@@ -1,4 +1,4 @@
-[cignals.io](https://cignals.io/) DOM & TAPE tweaks for [OBS Studio](https://obsproject.com/).
+[cignals.io](https://cignals.io/) Scalp, DOM & TAPE tweaks for [OBS Studio](https://obsproject.com/).
 
 Did re-design for custom .css after months practicing learning order flow, especially DOM.  I left old DOM with Tape incase I ever decided to share.  I use Custom Scalp to trade.  It has everything I need on 1 screen. 
 
