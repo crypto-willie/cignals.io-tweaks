@@ -24,7 +24,7 @@ Enjoy!
 
 ![Screenshot-1](/media/cignals-shitcoin-tweaks.png)
 
-  #### Current Shitcoin List:
+  #### Current Shitcoin List: "I'll add more as I trade them."
     * ETH
     * SOL
     * AVAX
