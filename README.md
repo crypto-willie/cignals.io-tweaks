@@ -1,6 +1,7 @@
 [cignals.io](https://cignals.io/) Scalp, DOM & TAPE tweaks for [OBS Studio](https://obsproject.com/).
 
-Did re-design for custom .css after months practicing learning order flow, especially DOM.  I left old DOM with Tape incase I ever decided to share.  I use Custom Scalp to trade.  It has everything I need on 1 screen.   I use Google Chrome to research HTF on 2nd screen.  
+Did re-design for custom .css after months practicing learning order flow, especially DOM.  I left old DOM with Tape incase I ever decided to share.  I use Custom Scalp to trade.  It has everything I need on 1 screen. Use Google Chrome to research HTF on 2nd screen.  
+
 Not familar with OBS?  Google your friend!  DYOR! 
 
 Import .css under "Scene Collection".
