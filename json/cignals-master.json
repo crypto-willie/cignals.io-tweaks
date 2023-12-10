@@ -1,15 +1,15 @@
 {
-    "current_scene": "OP_",
-    "current_program_scene": "OP_",
+    "current_scene": "SOL_",
+    "current_program_scene": "SOL_",
     "scene_order": [
         {
             "name": "BTC_"
         },
         {
-            "name": "ETH_"
+            "name": "SOL_"
         },
         {
-            "name": "SOL_"
+            "name": "ETH_"
         },
         {
             "name": "AVAX_"
@@ -2792,44 +2792,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Color Source SOL tape",
-                        "source_uuid": "f2e730de-c03e-43a1-9a80-b0bbf2d6efff",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.1145833358168602,
-                            "y": 0.22685185074806213
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 9,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "SOL Tape Scalp",
                         "source_uuid": "fcb4cd21-4c68-4437-bc1c-a8bbbf2b8f75",
                         "visible": true,
@@ -2850,10 +2812,10 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 220,
-                        "crop_top": 35,
-                        "crop_right": 280,
-                        "crop_bottom": 680,
+                        "crop_left": 390,
+                        "crop_top": 540,
+                        "crop_right": 380,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -2887,8 +2849,6 @@
                 "libobs.hide_scene_item.6": [],
                 "libobs.show_scene_item.5": [],
                 "libobs.hide_scene_item.5": [],
-                "libobs.show_scene_item.9": [],
-                "libobs.hide_scene_item.9": [],
                 "libobs.show_scene_item.7": [],
                 "libobs.hide_scene_item.7": []
             },
@@ -4548,17 +4508,17 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "BTC Scalp",
-            "monitor": 2,
+            "name": "SOL Scalp",
+            "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAAeIAAAAAAAADvcAAAQvAAAHgAAAAAAAAA7/AAAENwAAAAIABAAAB4AAAAeAAAAAAAAADv8AAAQ3",
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAAP8wAAAPQAABHSAAACAQAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         },
         {
-            "name": "LINK Scalp",
+            "name": "BTC Scalp",
             "monitor": -1,
             "type": 0,
-            "geometry": "AdnQywADAAAAAALQAAABXgAABK8AAAKKAAAC0AAAAX0AAASvAAACigAAAAAAAAAAB4AAAALQAAABfQAABK8AAAKK",
+            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAJ4gAAAMcAAAvBAAAB1AAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -5451,7 +5411,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     }
                 ]
@@ -5691,7 +5651,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=50.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": false,
@@ -5728,7 +5688,7 @@
             "versioned_id": "browser_source",
             "settings": {
                 "undo_sname": "coinbase/btc/usd/spot",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D50.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": false,
@@ -5765,7 +5725,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": false,
@@ -5801,11 +5761,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=40&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[cluster_style]=delta",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
-                "css": ""
+                "css": "",
+                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=10.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=40&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked"
             },
             "mixers": 255,
             "sync": 0,
@@ -6090,7 +6050,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 80,
+                "id_counter": 82,
                 "items": [
                     {
                         "name": "Color Source",
@@ -6933,236 +6893,6 @@
                         }
                     },
                     {
-                        "name": "Colour Source btc/15m",
-                        "source_uuid": "e3dacd2c-6492-4936-a5e8-76a380d45c72",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 3,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "btc/tape/0.05_",
-                        "source_uuid": "24608a15-7127-46a4-9793-ae59b6baeef6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1355.0,
-                            "y": 19.0
-                        },
-                        "scale": {
-                            "x": 0.91203701496124268,
-                            "y": 0.91203701496124268
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 220,
-                        "crop_top": 30,
-                        "crop_right": 280,
-                        "crop_bottom": 300,
-                        "id": 25,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "btc/tape/25.0_",
-                        "source_uuid": "ee1a70f7-547e-464f-bbe7-ecfe85c5f448",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1637.2685546875,
-                            "y": 700.0
-                        },
-                        "scale": {
-                            "x": 0.91203701496124268,
-                            "y": 0.91203701496124268
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 225,
-                        "crop_top": 30,
-                        "crop_right": 555,
-                        "crop_bottom": 680,
-                        "id": 61,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "btc/tape/5.0_",
-                        "source_uuid": "3483a2f8-58f9-44b8-9788-36635e3a7bd4",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1355.0,
-                            "y": 700.0
-                        },
-                        "scale": {
-                            "x": 0.91203701496124268,
-                            "y": 0.91203701496124268
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 220,
-                        "crop_top": 30,
-                        "crop_right": 555,
-                        "crop_bottom": 680,
-                        "id": 23,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC - perp - DOM - 25.0",
-                        "source_uuid": "9c07f0cf-c669-490f-8f5c-6220a54ff9b6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 10.0,
-                            "y": 17.5
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 595,
-                        "crop_top": 35,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 51,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "btc/perp/DOM/tape",
-                        "source_uuid": "10694451-4af7-4926-b4ac-b05dca844aeb",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 8,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        }
-                    },
-                    {
                         "name": "Color Source BTC Scalp",
                         "source_uuid": "81e522df-f901-457a-9cbc-8f635762e65c",
                         "visible": true,
@@ -7454,6 +7184,236 @@
                         "crop_right": 0,
                         "crop_bottom": 0,
                         "id": 73,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        }
+                    },
+                    {
+                        "name": "Colour Source btc/15m",
+                        "source_uuid": "e3dacd2c-6492-4936-a5e8-76a380d45c72",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "btc/tape/0.05_",
+                        "source_uuid": "24608a15-7127-46a4-9793-ae59b6baeef6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1355.0,
+                            "y": 19.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 280,
+                        "crop_bottom": 300,
+                        "id": 25,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "btc/tape/25.0_",
+                        "source_uuid": "ee1a70f7-547e-464f-bbe7-ecfe85c5f448",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1637.2685546875,
+                            "y": 700.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 225,
+                        "crop_top": 30,
+                        "crop_right": 555,
+                        "crop_bottom": 680,
+                        "id": 61,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "btc/tape/5.0_",
+                        "source_uuid": "3483a2f8-58f9-44b8-9788-36635e3a7bd4",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1355.0,
+                            "y": 700.0
+                        },
+                        "scale": {
+                            "x": 0.91203701496124268,
+                            "y": 0.91203701496124268
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 220,
+                        "crop_top": 30,
+                        "crop_right": 555,
+                        "crop_bottom": 680,
+                        "id": 23,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC - perp - DOM - 25.0",
+                        "source_uuid": "9c07f0cf-c669-490f-8f5c-6220a54ff9b6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 10.0,
+                            "y": 17.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 595,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 51,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "btc/perp/DOM/tape",
+                        "source_uuid": "10694451-4af7-4926-b4ac-b05dca844aeb",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 8,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -8044,32 +8004,6 @@
             "prev_ver": 503316480,
             "name": "Color Source SOL Scalp",
             "uuid": "aab5313b-6bf8-4b4f-9e81-55775346d638",
-            "id": "color_source",
-            "versioned_id": "color_source_v3",
-            "settings": {
-                "color": 4281017633
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
-            "name": "Color Source SOL tape",
-            "uuid": "f2e730de-c03e-43a1-9a80-b0bbf2d6efff",
             "id": "color_source",
             "versioned_id": "color_source_v3",
             "settings": {
@@ -9459,7 +9393,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=35&query=kraken+xbt+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=35&query=kraken+xbt+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=50.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": false,
@@ -10133,7 +10067,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -11325,7 +11259,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=2.5e-4&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -12046,7 +11980,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=114373&query=binance+futures+sol+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.05&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=3&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[volume_profile_style]=stacked&settings[cluster_style]=delta",
+                "url": "https://cignals.io/vc?settings[instrument_id]=114373&query=binance+futures+sol+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.05&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=3&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[volume_profile_style]=stacked&settings[cluster_style]=stacked",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -12160,7 +12094,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12502,44 +12436,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Color Source SOL tape",
-                        "source_uuid": "f2e730de-c03e-43a1-9a80-b0bbf2d6efff",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 0.1145833358168602,
-                            "y": 0.22685185074806213
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 9,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "SOL Tape Scalp",
                         "source_uuid": "fcb4cd21-4c68-4437-bc1c-a8bbbf2b8f75",
                         "visible": true,
@@ -12560,10 +12456,10 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 220,
-                        "crop_top": 35,
-                        "crop_right": 280,
-                        "crop_bottom": 680,
+                        "crop_left": 390,
+                        "crop_top": 540,
+                        "crop_right": 380,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
