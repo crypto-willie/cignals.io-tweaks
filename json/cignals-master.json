@@ -1,6 +1,6 @@
 {
-    "current_scene": "BTC_",
-    "current_program_scene": "BTC_",
+    "current_scene": "OP_",
+    "current_program_scene": "OP_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -15,7 +15,22 @@
             "name": "AVAX_"
         },
         {
+            "name": "IMX_"
+        },
+        {
+            "name": "INJ_"
+        },
+        {
+            "name": "SNX_"
+        },
+        {
+            "name": "TIA_"
+        },
+        {
             "name": "FET_"
+        },
+        {
+            "name": "TRB_"
         },
         {
             "name": "LDO_"
@@ -31,21 +46,6 @@
         },
         {
             "name": "OP_"
-        },
-        {
-            "name": "IMX_"
-        },
-        {
-            "name": "INJ_"
-        },
-        {
-            "name": "SNX_"
-        },
-        {
-            "name": "TIA_"
-        },
-        {
-            "name": "TRB_"
         },
         {
             "name": "#DOM"
@@ -2772,7 +2772,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SOL 15m VC Scalp",
+                        "name": "SOL Footprint Scalp",
                         "source_uuid": "96c22cda-3770-4bff-b1cd-d44bf93f32b9",
                         "visible": true,
                         "locked": true,
@@ -3023,9 +3023,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -3660,7 +3660,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "AVAX 5m",
+                        "name": "AVAX Footprint Scalp",
                         "source_uuid": "226cf7ea-6df8-4241-a505-e747268dae99",
                         "visible": true,
                         "locked": true,
@@ -3719,9 +3719,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -3852,7 +3852,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "FET 15m",
+                        "name": "FET Footprint Scalp",
                         "source_uuid": "ccf9530d-8719-4913-b42a-5a8ffe8aec20",
                         "visible": true,
                         "locked": true,
@@ -3911,7 +3911,7 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
                         "crop_bottom": 680,
                         "id": 8,
@@ -4044,7 +4044,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LDO 5m",
+                        "name": "LDO Footprint Scalp",
                         "source_uuid": "e16d05f0-96d6-4003-a404-dab01563dc87",
                         "visible": true,
                         "locked": true,
@@ -4103,9 +4103,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -4236,7 +4236,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LINK 5M",
+                        "name": "LINK Footprint Scalp",
                         "source_uuid": "da238b27-adeb-4b50-b8f3-2474a19421b5",
                         "visible": true,
                         "locked": true,
@@ -4295,9 +4295,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 9,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -4428,7 +4428,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "IMX 5m VC",
+                        "name": "IMX Footprint Scalp",
                         "source_uuid": "ad66570d-2b9b-48c5-95d4-f4da8c87abc2",
                         "visible": true,
                         "locked": true,
@@ -4620,7 +4620,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "INJ 5m VC ",
+                        "name": "INJ Footprint Scalp",
                         "source_uuid": "04792aa3-d271-4419-a867-e9e62967e5ca",
                         "visible": true,
                         "locked": true,
@@ -4812,7 +4812,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SNX 5m VC",
+                        "name": "SNX Footprint Scalp",
                         "source_uuid": "8fe9292a-b74e-4d1a-9a6a-433c56752331",
                         "visible": true,
                         "locked": true,
@@ -5004,7 +5004,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "TIA 5m VC",
+                        "name": "TIA Footprint Scalp",
                         "source_uuid": "261d7aa9-1a3a-4853-9b73-a242fac6d6cf",
                         "visible": true,
                         "locked": true,
@@ -5196,7 +5196,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "TRB 5m VC ",
+                        "name": "TRB Footprint Scalp",
                         "source_uuid": "8b1897ae-b8d4-4169-9b3c-d5e285132ea3",
                         "visible": true,
                         "locked": true,
@@ -5388,7 +5388,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "OP 5m VC",
+                        "name": "OP Footprint Scalp",
                         "source_uuid": "edd04ed0-7109-4f2f-aa73-8c3e7e09daca",
                         "visible": true,
                         "locked": true,
@@ -5580,7 +5580,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "OCEAN 5m VC",
+                        "name": "OCEAN Footprint Scalp",
                         "source_uuid": "b946e827-ceee-4d8f-9468-5714fae59d50",
                         "visible": true,
                         "locked": true,
@@ -5772,7 +5772,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "MATIC 5m VC",
+                        "name": "MATIC Footprint Scalp",
                         "source_uuid": "9af0b784-ad7a-4491-abf3-a809fd4607f3",
                         "visible": true,
                         "locked": true,
@@ -5900,7 +5900,21 @@
         }
     ],
     "transitions": [],
-    "saved_projectors": [],
+    "saved_projectors": [
+        {
+            "name": "BTC Scalp",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAP0///7yAAAC3H////+AAAD9P//++cAAAtx/////gAAAAMAAAAADwAAAAP0///75wAAC3H////+",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "monitor": 1,
+            "type": 4,
+            "geometry": "AdnQywADAAAAAA8IAAAAAAAAFncAAAQvAAAPAAAAAAAAABZ/AAAENwAAAAEABAAAB4AAAA8AAAAAAAAAFn8AAAQ3",
+            "alwaysOnTopOverridden": false
+        }
+    ],
     "current_transition": "Fade",
     "transition_duration": 300,
     "preview_locked": false,
@@ -7692,24 +7706,24 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": [],
-                "libobs.show_scene_item.2": [],
-                "libobs.hide_scene_item.2": [],
-                "libobs.show_scene_item.3": [],
-                "libobs.hide_scene_item.3": [],
-                "libobs.show_scene_item.4": [],
-                "libobs.hide_scene_item.4": [],
-                "libobs.show_scene_item.5": [],
-                "libobs.hide_scene_item.5": [],
-                "libobs.show_scene_item.6": [],
-                "libobs.hide_scene_item.6": [],
-                "libobs.show_scene_item.7": [],
-                "libobs.hide_scene_item.7": [],
+                "libobs.show_scene_item.9": [],
+                "libobs.hide_scene_item.9": [],
                 "libobs.show_scene_item.8": [],
                 "libobs.hide_scene_item.8": [],
-                "libobs.show_scene_item.9": [],
-                "libobs.hide_scene_item.9": []
+                "libobs.show_scene_item.7": [],
+                "libobs.hide_scene_item.7": [],
+                "libobs.show_scene_item.6": [],
+                "libobs.hide_scene_item.6": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -8032,16 +8046,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "AVAX 5m",
+            "name": "AVAX Footprint Scalp",
             "uuid": "226cf7ea-6df8-4241-a505-e747268dae99",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
-                "css": "",
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -8113,7 +8127,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -8225,7 +8239,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "AVAX 5m",
+                        "name": "AVAX Footprint Scalp",
                         "source_uuid": "226cf7ea-6df8-4241-a505-e747268dae99",
                         "visible": true,
                         "locked": true,
@@ -8284,9 +8298,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -10371,10 +10385,10 @@
                 "libobs.hide_scene_item.14": [],
                 "libobs.show_scene_item.13": [],
                 "libobs.hide_scene_item.13": [],
-                "libobs.show_scene_item.73": [],
-                "libobs.hide_scene_item.73": [],
                 "libobs.show_scene_item.8": [],
-                "libobs.hide_scene_item.8": []
+                "libobs.hide_scene_item.8": [],
+                "libobs.show_scene_item.73": [],
+                "libobs.hide_scene_item.73": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -11231,7 +11245,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=269&query=binance+futures+eth+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.5&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=50&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings[instrument_id]=269&query=binance+futures+eth+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=1.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=50&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -11271,7 +11285,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -11442,9 +11456,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -11495,7 +11509,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -11657,42 +11671,6 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "FET 15m",
-            "uuid": "ccf9530d-8719-4913-b42a-5a8ffe8aec20",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=227169433&query=binance+futures+fet+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=delta",
-                "width": 1920,
-                "height": 1080,
-                "shutdown": true,
-                "css": ""
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
             "name": "FET DOM Scalp",
             "uuid": "b4e5bc4b-d98f-4ef0-8760-f7d1a10c2e67",
             "id": "browser_source",
@@ -11729,6 +11707,42 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "FET Footprint Scalp",
+            "uuid": "ccf9530d-8719-4913-b42a-5a8ffe8aec20",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=227169433&query=binance+futures+fet+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
+                "height": 1080,
+                "shutdown": true,
+                "css": ""
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "FET Scalp Tape",
             "uuid": "2531a795-7da7-4dac-8626-cc2c3f2aa117",
             "id": "browser_source",
@@ -11738,7 +11752,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}\n"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -11850,7 +11864,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "FET 15m",
+                        "name": "FET Footprint Scalp",
                         "source_uuid": "ccf9530d-8719-4913-b42a-5a8ffe8aec20",
                         "visible": true,
                         "locked": true,
@@ -11909,7 +11923,7 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
                         "crop_bottom": 680,
                         "id": 8,
@@ -11990,16 +12004,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "IMX 5m VC",
-            "uuid": "ad66570d-2b9b-48c5-95d4-f4da8c87abc2",
+            "name": "IMX DOM",
+            "uuid": "bd53a6c5-56ad-4e76-b52d-8f8f64ddef36",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "",
-                "shutdown": true,
-                "width": 1920,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12026,16 +12040,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "IMX DOM",
-            "uuid": "bd53a6c5-56ad-4e76-b52d-8f8f64ddef36",
+            "name": "IMX Footprint Scalp",
+            "uuid": "ad66570d-2b9b-48c5-95d4-f4da8c87abc2",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "shutdown": true,
-                "width": 1280,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -12067,11 +12081,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "shutdown": true,
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=500.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=500.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12183,7 +12197,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "IMX 5m VC",
+                        "name": "IMX Footprint Scalp",
                         "source_uuid": "ad66570d-2b9b-48c5-95d4-f4da8c87abc2",
                         "visible": true,
                         "locked": true,
@@ -12323,16 +12337,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "INJ 5m VC ",
-            "uuid": "04792aa3-d271-4419-a867-e9e62967e5ca",
+            "name": "INJ DOM",
+            "uuid": "01e9627b-1d05-41c9-b1e7-5092cb105830",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "",
-                "width": 1920,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.1&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12359,16 +12373,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "INJ DOM",
-            "uuid": "01e9627b-1d05-41c9-b1e7-5092cb105830",
+            "name": "INJ Footprint Scalp",
+            "uuid": "04792aa3-d271-4419-a867-e9e62967e5ca",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "shutdown": true,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "width": 1280,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.1&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -12400,11 +12414,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12516,7 +12530,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "INJ 5m VC ",
+                        "name": "INJ Footprint Scalp",
                         "source_uuid": "04792aa3-d271-4419-a867-e9e62967e5ca",
                         "visible": true,
                         "locked": true,
@@ -12627,7 +12641,9 @@
                         "hide_transition": {
                             "duration": 0
                         },
-                        "private_settings": {}
+                        "private_settings": {
+                            "collapsed": false
+                        }
                     }
                 ]
             },
@@ -12798,42 +12814,6 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "LDO 5m",
-            "uuid": "e16d05f0-96d6-4003-a404-dab01563dc87",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.00251&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=delta",
-                "width": 1920,
-                "height": 1080,
-                "shutdown": true,
-                "css": ""
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
             "name": "LDO DOM Scalp",
             "uuid": "66d1eebb-65f6-4cd7-a95f-a6f3e3f42df4",
             "id": "browser_source",
@@ -12870,6 +12850,42 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "LDO Footprint Scalp",
+            "uuid": "e16d05f0-96d6-4003-a404-dab01563dc87",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
+                "height": 1080,
+                "shutdown": true,
+                "css": ""
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "LDO Scalp Tape",
             "uuid": "7b3e7f55-1703-44eb-b7c8-782f51e08261",
             "id": "browser_source",
@@ -12879,7 +12895,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12991,7 +13007,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LDO 5m",
+                        "name": "LDO Footprint Scalp",
                         "source_uuid": "e16d05f0-96d6-4003-a404-dab01563dc87",
                         "visible": true,
                         "locked": true,
@@ -13050,9 +13066,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -13103,7 +13119,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -13229,42 +13245,6 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "LINK 5M",
-            "uuid": "da238b27-adeb-4b50-b8f3-2474a19421b5",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=delta&settings[cluster_style]=stacked",
-                "width": 1920,
-                "height": 1080,
-                "shutdown": true,
-                "css": ""
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
             "name": "LINK DOM Scalp",
             "uuid": "6211888f-0bd2-437a-be20-57d33e4d4134",
             "id": "browser_source",
@@ -13302,6 +13282,42 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "LINK Footprint Scalp",
+            "uuid": "da238b27-adeb-4b50-b8f3-2474a19421b5",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1920,
+                "height": 1080,
+                "shutdown": true,
+                "css": "",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=delta&settings[cluster_style]=stacked"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "LINK Scalp Tape",
             "uuid": "4f4dc570-6eaa-4240-9e5a-538c61b5700a",
             "id": "browser_source",
@@ -13311,7 +13327,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -13459,7 +13475,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "LINK 5M",
+                        "name": "LINK Footprint Scalp",
                         "source_uuid": "da238b27-adeb-4b50-b8f3-2474a19421b5",
                         "visible": true,
                         "locked": true,
@@ -13518,9 +13534,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 35,
+                        "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 9,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -13571,7 +13587,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -13733,16 +13749,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "MATIC 5m VC",
-            "uuid": "9af0b784-ad7a-4491-abf3-a809fd4607f3",
+            "name": "MATIC DOM",
+            "uuid": "4f255ac4-12a8-4bd8-aa3d-e5a50287230e",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "width": 1920,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
                 "shutdown": true,
-                "css": "",
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=2.5e-4&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -13769,16 +13785,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "MATIC DOM",
-            "uuid": "4f255ac4-12a8-4bd8-aa3d-e5a50287230e",
+            "name": "MATIC Footprint Scalp",
+            "uuid": "9af0b784-ad7a-4491-abf3-a809fd4607f3",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "shutdown": true,
-                "width": 1280,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -13810,11 +13826,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1.0e3&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1.0e3&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -13926,7 +13942,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "MATIC 5m VC",
+                        "name": "MATIC Footprint Scalp",
                         "source_uuid": "9af0b784-ad7a-4491-abf3-a809fd4607f3",
                         "visible": true,
                         "locked": true,
@@ -14038,7 +14054,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -14200,16 +14216,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "OCEAN 5m VC",
-            "uuid": "b946e827-ceee-4d8f-9468-5714fae59d50",
+            "name": "OCEAN DOM",
+            "uuid": "d2b9433a-8d7f-4935-851b-b01fa0fce5f2",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "",
-                "width": 1920,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=2.5e-4&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.00025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -14236,16 +14252,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "OCEAN DOM",
-            "uuid": "d2b9433a-8d7f-4935-851b-b01fa0fce5f2",
+            "name": "OCEAN Footprint Scalp",
+            "uuid": "b946e827-ceee-4d8f-9468-5714fae59d50",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "shutdown": true,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.00025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "width": 1280,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=2.5e-4&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -14277,11 +14293,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "shutdown": true,
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -14393,7 +14409,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "OCEAN 5m VC",
+                        "name": "OCEAN Footprint Scalp",
                         "source_uuid": "b946e827-ceee-4d8f-9468-5714fae59d50",
                         "visible": true,
                         "locked": true,
@@ -14505,7 +14521,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -14641,42 +14657,6 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "OP 5m VC",
-            "uuid": "edd04ed0-7109-4f2f-aa73-8c3e7e09daca",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "width": 1920,
-                "height": 1080,
-                "shutdown": true,
-                "css": "",
-                "url": "https://cignals.io/vc?settings[instrument_id]=116540&query=binance+futures+op+usdt+perp&settings[time_tick_size]=5m&settings[price_tick_size]=0.0025&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=4&settings[size_precision]=8&settings[period_width]=30&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
             "name": "OP Color Source Background",
             "uuid": "591efb5b-7a55-4566-b0cd-8ee0164d281a",
             "id": "color_source",
@@ -14708,11 +14688,47 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "height": 1080,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116540&query=binance+futures+op+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1280,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116540&query=binance+futures+op+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "OP Footprint Scalp",
+            "uuid": "edd04ed0-7109-4f2f-aa73-8c3e7e09daca",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/vc?settings[instrument_id]=116540&query=binance+futures+op+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=0.0025&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=4&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
+                "height": 1080,
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -14744,11 +14760,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "shutdown": true,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116540&query=binance+futures+op+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116540&query=binance+futures+op+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -14860,7 +14876,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "OP 5m VC",
+                        "name": "OP Footprint Scalp",
                         "source_uuid": "edd04ed0-7109-4f2f-aa73-8c3e7e09daca",
                         "visible": true,
                         "locked": true,
@@ -14971,7 +14987,9 @@
                         "hide_transition": {
                             "duration": 0
                         },
-                        "private_settings": {}
+                        "private_settings": {
+                            "collapsed": true
+                        }
                     }
                 ]
             },
@@ -14998,16 +15016,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "SNX 5m VC",
-            "uuid": "8fe9292a-b74e-4d1a-9a6a-433c56752331",
+            "name": "SNX DOM",
+            "uuid": "ca216514-150f-410f-89f1-121dd048c0ad",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "",
-                "width": 1920,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15034,16 +15052,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "SNX DOM",
-            "uuid": "ca216514-150f-410f-89f1-121dd048c0ad",
+            "name": "SNX Footprint Scalp",
+            "uuid": "8fe9292a-b74e-4d1a-9a6a-433c56752331",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "width": 1280,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -15075,11 +15093,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "shutdown": true,
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15191,7 +15209,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SNX 5m VC",
+                        "name": "SNX Footprint Scalp",
                         "source_uuid": "8fe9292a-b74e-4d1a-9a6a-433c56752331",
                         "visible": true,
                         "locked": true,
@@ -15432,16 +15450,17 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "SOL 15m VC Scalp",
-            "uuid": "96c22cda-3770-4bff-b1cd-d44bf93f32b9",
+            "name": "SOL DOM Scalp",
+            "uuid": "def39bc4-88e1-44fa-9b98-6d63657fb86e",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114373&query=binance+futures+sol+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=100&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Blower_charts%5D%5B%5D=open_interest&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta",
-                "width": 1920,
+                "undo_uuid": "def39bc4-88e1-44fa-9b98-6d63657fb86e",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114373&query=binance+futures+sol+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120",
+                "width": 1280,
                 "height": 1080,
                 "shutdown": true,
-                "css": ""
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15468,17 +15487,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "SOL DOM Scalp",
-            "uuid": "def39bc4-88e1-44fa-9b98-6d63657fb86e",
+            "name": "SOL Footprint Scalp",
+            "uuid": "96c22cda-3770-4bff-b1cd-d44bf93f32b9",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "undo_uuid": "def39bc4-88e1-44fa-9b98-6d63657fb86e",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=114373&query=binance+futures+sol+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120",
-                "width": 1280,
+                "width": 1920,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
+                "css": "",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114373&query=binance+futures+sol+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Blower_charts%5D%5B%5D=open_interest&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked"
             },
             "mixers": 255,
             "sync": 0,
@@ -15663,7 +15681,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SOL 15m VC Scalp",
+                        "name": "SOL Footprint Scalp",
                         "source_uuid": "96c22cda-3770-4bff-b1cd-d44bf93f32b9",
                         "visible": true,
                         "locked": true,
@@ -15775,7 +15793,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -15803,16 +15821,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "TIA 5m VC",
-            "uuid": "261d7aa9-1a3a-4853-9b73-a242fac6d6cf",
+            "name": "TIA DOM",
+            "uuid": "9e5e392b-64ad-4463-9d16-bca7c5951ebc",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
-                "width": 1920,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15839,16 +15857,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "TIA DOM",
-            "uuid": "9e5e392b-64ad-4463-9d16-bca7c5951ebc",
+            "name": "TIA Footprint Scalp",
+            "uuid": "261d7aa9-1a3a-4853-9b73-a242fac6d6cf",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "shutdown": true,
-                "width": 1280,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -15880,11 +15898,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "shutdown": true,
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15996,7 +16014,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "TIA 5m VC",
+                        "name": "TIA Footprint Scalp",
                         "source_uuid": "261d7aa9-1a3a-4853-9b73-a242fac6d6cf",
                         "visible": true,
                         "locked": true,
@@ -16136,16 +16154,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "TRB 5m VC ",
-            "uuid": "8b1897ae-b8d4-4169-9b3c-d5e285132ea3",
+            "name": "TRB DOM",
+            "uuid": "9a6015e0-e2e2-46a0-855e-b219179ff56b",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "shutdown": true,
-                "css": "",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.1&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1280,
                 "height": 1080,
-                "width": 1920,
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Btime_tick_size%5D=5m&settings%5Bprice_tick_size%5D=0.1&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=delta"
+                "shutdown": true,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -16172,16 +16190,16 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "TRB DOM",
-            "uuid": "9a6015e0-e2e2-46a0-855e-b219179ff56b",
+            "name": "TRB Footprint Scalp",
+            "uuid": "8b1897ae-b8d4-4169-9b3c-d5e285132ea3",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "shutdown": true,
-                "width": 1280,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.25&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.25&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "width": 1920,
                 "height": 1080,
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.1&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "shutdown": true,
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -16213,11 +16231,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}",
-                "shutdown": true,
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=10.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=10.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -16329,7 +16347,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "TRB 5m VC ",
+                        "name": "TRB Footprint Scalp",
                         "source_uuid": "8b1897ae-b8d4-4169-9b3c-d5e285132ea3",
                         "visible": true,
                         "locked": true,
