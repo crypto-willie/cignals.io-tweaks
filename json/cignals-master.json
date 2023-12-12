@@ -1,6 +1,6 @@
 {
-    "current_scene": "OP_",
-    "current_program_scene": "OP_",
+    "current_scene": "FET_",
+    "current_program_scene": "FET_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -3913,7 +3913,7 @@
                         "crop_left": 380,
                         "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 8,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -5902,16 +5902,16 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "BTC Scalp",
             "monitor": -1,
-            "type": 0,
+            "type": 4,
             "geometry": "AdnQywADAAAAAAP0///7yAAAC3H////+AAAD9P//++cAAAtx/////gAAAAMAAAAADwAAAAP0///75wAAC3H////+",
             "alwaysOnTopOverridden": false
         },
         {
-            "monitor": 1,
-            "type": 4,
-            "geometry": "AdnQywADAAAAAA8IAAAAAAAAFncAAAQvAAAPAAAAAAAAABZ/AAAENwAAAAEABAAAB4AAAA8AAAAAAAAAFn8AAAQ3",
+            "name": "btc/perp/DOM/tape",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAt0///7yAAAEvH////+AAALdP//++cAABLx/////gAAAAMAAAAADwAAAAt0///75wAAEvH////+",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -11925,7 +11925,7 @@
                         "crop_left": 380,
                         "crop_top": 540,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 0,
                         "id": 8,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -11976,7 +11976,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
