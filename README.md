@@ -20,7 +20,7 @@ Enjoy!
 
 ![Screenshot-1](/media/cignals-BTC-tweaks.png)
 
-##### Shitcoin Tweaks (default - 15m footprint | period width - 60)
+##### Shitcoin Tweaks : default - 15m footprint | period width - 60
 
 ![Screenshot-1](/media/cignals-shitcoin-tweaks.png)
 
