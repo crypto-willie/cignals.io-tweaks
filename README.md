@@ -30,7 +30,7 @@ Enjoy!
     * - AVAX (Scalp - DOM & Tape)             - SNX (Scalp)
     * - FET (Scalp - DOM & Tape)              - TIA (Scalp)
     * - LDO (Scalp - DOM & Tape)              - TRB (Scalp)
-    * - LINK (Scalp - DOM & Tape)             - ??? (Scalp)
+    * - LINK (Scalp - DOM & Tape)             - HBAR (Scalp)
     * - MATIC (Scalp - DOM & Tape)            - ??? (Scalp)
     * - OCEAN - (Scalp - DOM & Tape)          - ??? (Scalp)
     * - OP - (Scalp - DOM & Tape)             - ??? (Scalp)
