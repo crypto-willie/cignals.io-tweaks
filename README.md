@@ -25,15 +25,22 @@ Enjoy!
 ![Screenshot-1](/media/cignals-shitcoin-tweaks.png)
 
   #### Current Shitcoin List: "I'll add more as I trade them."
-    * - ETH (Scalp - DOM & Tape)              - IMX (Scalp)
-    * - SOL (Scalp - DOM & Tape)              - INJ (Scalp)
-    * - AVAX (Scalp - DOM & Tape)             - SNX (Scalp)
-    * - FET (Scalp - DOM & Tape)              - TIA (Scalp)
-    * - LDO (Scalp - DOM & Tape)              - TRB (Scalp)
-    * - LINK (Scalp - DOM & Tape)             - HBAR (Scalp)
-    * - MATIC (Scalp - DOM & Tape)            - ??? (Scalp)
-    * - OCEAN - (Scalp - DOM & Tape)          - ??? (Scalp)
-    * - OP - (Scalp - DOM & Tape)             - ??? (Scalp)
+    * - ETH (Scalp - DOM & Tape)              
+    * - SOL (Scalp - DOM & Tape)            
+    * - AVAX (Scalp - DOM & Tape)             
+    * - FET (Scalp - DOM & Tape)         
+    * - LDO (Scalp - DOM & Tape)             
+    * - LINK (Scalp - DOM & Tape)        
+    * - MATIC (Scalp - DOM & Tape)         
+    * - OCEAN - (Scalp - DOM & Tape)         
+    * - OP - (Scalp - DOM & Tape)                
+    * - IMX (Scalp)
+    * - INJ (Scalp)
+    * - SNX (Scalp)
+    * - TIA (Scalp)
+    * - TRB (Scalp)
+    * - HBAR (Scalp)
+
   
 My master OBS Scene Selection [cignals-master](/json/cignals-master.json)
 
