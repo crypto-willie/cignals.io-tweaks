@@ -40,6 +40,7 @@ Enjoy!
     * - TIA (Scalp)
     * - TRB (Scalp)
     * - HBAR (Scalp)
+    * - GRT (Scalp)
 
   
 My master OBS Scene Selection [cignals-master](/json/cignals-master.json)
