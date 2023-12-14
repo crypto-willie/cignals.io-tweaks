@@ -1,6 +1,6 @@
 {
-    "current_scene": "BTC_",
-    "current_program_scene": "BTC_",
+    "current_scene": "GRT_",
+    "current_program_scene": "GRT_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -31,6 +31,9 @@
         },
         {
             "name": "########"
+        },
+        {
+            "name": "GRT_"
         },
         {
             "name": "TIA_"
@@ -5992,6 +5995,198 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "GRT Scalp",
+            "uuid": "2375f427-3b72-4a0d-bc49-fba64301aecb",
+            "id": "group",
+            "versioned_id": "group",
+            "settings": {
+                "id_counter": 0,
+                "custom_size": true,
+                "cx": 1920,
+                "cy": 1080,
+                "items": [
+                    {
+                        "name": "Color Source GRT Scalp",
+                        "source_uuid": "d39055c2-6384-4adc-80df-8c3ca273d32f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT DOM",
+                        "source_uuid": "36e072f8-80d1-4dd6-bc42-d72eaedc3828",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1510.0,
+                            "y": 79.0
+                        },
+                        "scale": {
+                            "x": 0.8828125,
+                            "y": 0.88148146867752075
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 830,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT 15m Footprint",
+                        "source_uuid": "e38a3f9c-59d1-4e2f-93bc-49c6a94dbdaa",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 400,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT Tape",
+                        "source_uuid": "aea030c9-1aea-4575-bdd9-77620a09b522",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.69444441795349121,
+                            "y": 0.69444441795349121
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 35,
+                        "crop_right": 380,
+                        "crop_bottom": 535,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
         }
     ],
     "quick_transitions": [
@@ -6022,14 +6217,21 @@
         {
             "monitor": -1,
             "type": 4,
-            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAKhQAAAScAAAxkAAACNAAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
+            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAJYQAAARQAAAtAAAACIQAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
             "alwaysOnTopOverridden": false
         },
         {
-            "name": "AVAX_",
+            "name": "SOL Scalp",
             "monitor": -1,
-            "type": 1,
-            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAARQwAAAZMAABMiAAACoAAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
+            "type": 0,
+            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAKMwAAAWwAAAwSAAACeQAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "GRT Scalp",
+            "monitor": -1,
+            "type": 0,
+            "geometry": "AdnQywADAAAAAADiAAABRgAAAsEAAAJyAAAA4gAAAWUAAALBAAACcgAAAAAAAAAAB4AAAADiAAABZQAAAsEAAAJy",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -8199,7 +8401,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114386&query=binance+futures+avax+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.05&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -8847,7 +9049,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -10784,6 +10986,32 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "Color Source GRT Scalp",
+            "uuid": "d39055c2-6384-4adc-80df-8c3ca273d32f",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4281017633
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "Color Source HBAR Scalp",
             "uuid": "ba111358-3fa4-4c95-b761-dcb5fe63e617",
             "id": "color_source",
@@ -11271,7 +11499,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=269&query=binance+futures+eth+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=1.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=50&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings[instrument_id]=269&query=binance+futures+eth+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=1.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=50&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -11738,7 +11966,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=227169433&query=binance+futures+fet+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=227169433&query=binance+futures+fet+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -12030,6 +12258,337 @@
         },
         {
             "prev_ver": 503316480,
+            "name": "GRT 15m Footprint",
+            "uuid": "e38a3f9c-59d1-4e2f-93bc-49c6a94dbdaa",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "css": "",
+                "width": 1920,
+                "height": 1080,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=238735246&query=binance+futures+grt+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.00025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Blower_charts%5D%5B%5D=open_interest&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "GRT DOM",
+            "uuid": "36e072f8-80d1-4dd6-bc42-d72eaedc3828",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "width": 1280,
+                "height": 1080,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=238735246&query=binance+futures+grt+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "GRT Tape",
+            "uuid": "aea030c9-1aea-4575-bdd9-77620a09b522",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}",
+                "width": 1080,
+                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=238735246&query=binance+futures+grt+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "GRT_",
+            "uuid": "d0bad299-21fc-4b3e-998f-ad38cd440466",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 5,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "Color Source GRT Scalp",
+                        "source_uuid": "d39055c2-6384-4adc-80df-8c3ca273d32f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT DOM",
+                        "source_uuid": "36e072f8-80d1-4dd6-bc42-d72eaedc3828",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1510.0,
+                            "y": 79.0
+                        },
+                        "scale": {
+                            "x": 0.8828125,
+                            "y": 0.88148146867752075
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 830,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT 15m Footprint",
+                        "source_uuid": "e38a3f9c-59d1-4e2f-93bc-49c6a94dbdaa",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 400,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT Tape",
+                        "source_uuid": "aea030c9-1aea-4575-bdd9-77620a09b522",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.69444441795349121,
+                            "y": 0.69444441795349121
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 35,
+                        "crop_right": 380,
+                        "crop_bottom": 535,
+                        "id": 5,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "GRT Scalp",
+                        "source_uuid": "2375f427-3b72-4a0d-bc49-fba64301aecb",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
             "name": "HBAR DOM Scalp",
             "uuid": "fcce7bcb-4c7d-4319-a632-eddf36a4b99b",
             "id": "browser_source",
@@ -12071,7 +12630,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -12404,7 +12963,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116538&query=binance+futures+imx+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -12737,7 +13296,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=43046640&query=binance+futures+inj+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=80&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -13214,7 +13773,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -13646,7 +14205,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=delta&settings[cluster_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=delta&settings[cluster_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -14149,7 +14708,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=114926&query=binance+futures+matic+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -14616,7 +15175,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116541&query=binance+futures+ocean+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -15083,7 +15642,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=116540&query=binance+futures+op+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=0.0025&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=4&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings[instrument_id]=116540&query=binance+futures+op+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=0.0025&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=4&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[optional_components][]=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -15416,7 +15975,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116049&query=binance+futures+snx+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -16221,7 +16780,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=381942919&query=binance+futures+tia+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -16554,7 +17113,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.25&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.25&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=116590&query=binance+futures+trb+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.25&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.25&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
