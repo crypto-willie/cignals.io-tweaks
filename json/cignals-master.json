@@ -1,6 +1,6 @@
 {
-    "current_scene": "HBAR_",
-    "current_program_scene": "HBAR_",
+    "current_scene": "BTC_",
+    "current_program_scene": "BTC_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -30,10 +30,10 @@
             "name": "HBAR_"
         },
         {
-            "name": "TIA_"
+            "name": "########"
         },
         {
-            "name": "########"
+            "name": "TIA_"
         },
         {
             "name": "TRB_"
@@ -2837,9 +2837,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -3029,9 +3029,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -3261,84 +3261,8 @@
                         "crop_left": 380,
                         "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 535,
                         "id": 75,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC Scalp Middle",
-                        "source_uuid": "46e6961e-729b-40c8-96d3-077fbf94feaf",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 244.0
-                        },
-                        "scale": {
-                            "x": 0.69444441795349121,
-                            "y": 0.69444441795349121
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 35,
-                        "crop_right": 390,
-                        "crop_bottom": 680,
-                        "id": 78,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC Scalp Tape Bottom",
-                        "source_uuid": "63a6c335-7819-41db-97ab-40437675bbb0",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 488.0
-                        },
-                        "scale": {
-                            "x": 0.69444441795349121,
-                            "y": 0.69444441795349121
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 35,
-                        "crop_right": 390,
-                        "crop_bottom": 690,
-                        "id": 79,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -3374,11 +3298,7 @@
                 "libobs.show_scene_item.76": [],
                 "libobs.hide_scene_item.76": [],
                 "libobs.show_scene_item.75": [],
-                "libobs.hide_scene_item.75": [],
-                "libobs.show_scene_item.78": [],
-                "libobs.hide_scene_item.78": [],
-                "libobs.show_scene_item.79": [],
-                "libobs.hide_scene_item.79": []
+                "libobs.hide_scene_item.75": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -3725,9 +3645,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -3917,9 +3837,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 8,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -4109,9 +4029,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -4301,9 +4221,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 9,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -4493,9 +4413,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -4684,9 +4604,9 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 35,
                         "crop_top": 540,
-                        "crop_right": 380,
+                        "crop_right": 535,
                         "crop_bottom": 0,
                         "id": 5,
                         "group_item_backup": false,
@@ -4877,9 +4797,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -5069,9 +4989,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -5261,9 +5181,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -5453,9 +5373,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 9,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -5645,9 +5565,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 10,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -5837,9 +5757,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 9,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -6029,9 +5949,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -6100,10 +6020,16 @@
     "transitions": [],
     "saved_projectors": [
         {
-            "name": "btc/perp/DOM/tape",
             "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAAt0///7yAAAEvH////+AAALdP//++cAABLx/////gAAAAMAAAAADwAAAAt0///75wAAEvH////+",
+            "type": 4,
+            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAKhQAAAScAAAxkAAACNAAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
+            "alwaysOnTopOverridden": false
+        },
+        {
+            "name": "AVAX_",
+            "monitor": -1,
+            "type": 1,
+            "geometry": "AdnQywADAAAAAA8A////+AAAFn8AAAQ3AAARQwAAAZMAABMiAAACoAAAAAECAAAAB4AAAA8AAAAAFwAAFn8AAAQ3",
             "alwaysOnTopOverridden": false
         }
     ],
@@ -8349,7 +8275,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -8520,9 +8446,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -8885,7 +8811,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": false,
@@ -8921,7 +8847,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=40&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings[instrument_id]=272&query=binance+futures+btc+usdt+perp&settings[time_tick_size]=15m&settings[price_tick_size]=25.0&settings[imbalance]=10&settings[imbalance_method]=sibling&settings[orientation]=sell-buy&settings[ei_threshold]=0.5&settings[price_precision]=2&settings[size_precision]=8&settings[period_width]=60&settings[value_area_share]=70&settings[tzname]=US/Central&settings[max_refresh_rate]=30&settings[max_lookback_periods]=100&settings[color_scale_scope]=window&settings[cluster_composite_scale_scope]=bar&settings[cluster_composite_style]=histogram&settings[balanced_target]=most_recent&settings[overlays]=&settings[overlays][]=vwap&settings[lower_charts]=&settings[orderbook_enabled]=true&settings[optional_components]=&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -8988,87 +8914,15 @@
         },
         {
             "prev_ver": 503316480,
-            "name": "BTC Scalp Middle",
-            "uuid": "46e6961e-729b-40c8-96d3-077fbf94feaf",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=5.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
-                "width": 1080,
-                "height": 1080,
-                "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
             "name": "BTC Scalp Tape",
             "uuid": "a79ed0f8-8667-46c8-b558-cbdb6fb1aa80",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=1.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316480,
-            "name": "BTC Scalp Tape Bottom",
-            "uuid": "63a6c335-7819-41db-97ab-40437675bbb0",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=25.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
-                "width": 1080,
-                "height": 1080,
-                "shutdown": true,
-                "css": "# body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }\ntd.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -10458,84 +10312,8 @@
                         "crop_left": 380,
                         "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 680,
+                        "crop_bottom": 535,
                         "id": 75,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC Scalp Middle",
-                        "source_uuid": "46e6961e-729b-40c8-96d3-077fbf94feaf",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 244.0
-                        },
-                        "scale": {
-                            "x": 0.69444441795349121,
-                            "y": 0.69444441795349121
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 35,
-                        "crop_right": 390,
-                        "crop_bottom": 680,
-                        "id": 78,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC Scalp Tape Bottom",
-                        "source_uuid": "63a6c335-7819-41db-97ab-40437675bbb0",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 488.0
-                        },
-                        "scale": {
-                            "x": 0.69444441795349121,
-                            "y": 0.69444441795349121
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 35,
-                        "crop_right": 390,
-                        "crop_bottom": 690,
-                        "id": 79,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -10585,7 +10363,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -11533,7 +11311,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -11704,9 +11482,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -12000,7 +11778,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12171,9 +11949,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 8,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -12257,11 +12035,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1280,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12293,11 +12071,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
-                "css": "",
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -12329,11 +12107,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=5000&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=115023&query=binance+futures+hbar+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=5000&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12504,9 +12282,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -12556,7 +12334,9 @@
                         "hide_transition": {
                             "duration": 0
                         },
-                        "private_settings": {}
+                        "private_settings": {
+                            "collapsed": false
+                        }
                     }
                 ]
             },
@@ -12664,7 +12444,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12835,9 +12615,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -12997,7 +12777,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -13167,9 +12947,9 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 35,
                         "crop_top": 540,
-                        "crop_right": 380,
+                        "crop_right": 535,
                         "crop_bottom": 0,
                         "id": 5,
                         "group_item_backup": true,
@@ -13434,7 +13214,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=1150933&query=binance+futures+ldo+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -13474,7 +13254,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -13645,9 +13425,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -13906,7 +13686,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -14113,9 +13893,9 @@
                             "y": 1.0
                         },
                         "crop_left": 380,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 390,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 9,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -14409,7 +14189,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -14580,9 +14360,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 9,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -14876,7 +14656,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15047,9 +14827,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 10,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -15343,7 +15123,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15514,9 +15294,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 9,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -15567,7 +15347,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -15676,7 +15456,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -15847,9 +15627,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -16148,7 +15928,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -16319,9 +16099,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 7,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -16481,7 +16261,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -16652,9 +16432,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -16814,7 +16594,7 @@
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -16985,9 +16765,9 @@
                             "y": 1.0
                         },
                         "crop_left": 390,
-                        "crop_top": 540,
+                        "crop_top": 35,
                         "crop_right": 380,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": true,
                         "scale_filter": "disable",
