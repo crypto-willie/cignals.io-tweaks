@@ -41,6 +41,9 @@ Enjoy!
     * - TRB (Scalp)
     * - HBAR (Scalp)
     * - GRT (Scalp)
+    * - RNDR (Scalp)
+    * - ROSE (Scalp)
+    
 
   
 My master OBS Scene Selection [cignals-master](/json/cignals-master.json)
