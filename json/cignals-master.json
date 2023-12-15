@@ -1,6 +1,6 @@
 {
-    "current_scene": "GRT_",
-    "current_program_scene": "GRT_",
+    "current_scene": "BTC_",
+    "current_program_scene": "BTC_",
     "scene_order": [
         {
             "name": "BTC_"
@@ -55,6 +55,12 @@
         },
         {
             "name": "INJ_"
+        },
+        {
+            "name": "ROSE_"
+        },
+        {
+            "name": "RNDR_"
         },
         {
             "name": "#DOM"
@@ -4610,7 +4616,7 @@
                         "crop_left": 35,
                         "crop_top": 540,
                         "crop_right": 535,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -6187,6 +6193,390 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "ROSE Scalp",
+            "uuid": "00b095e3-4996-44ae-8640-56a40bbec778",
+            "id": "group",
+            "versioned_id": "group",
+            "settings": {
+                "id_counter": 0,
+                "custom_size": true,
+                "cx": 1920,
+                "cy": 1080,
+                "items": [
+                    {
+                        "name": "Color Source ROSE Scalp",
+                        "source_uuid": "03cf0d9f-2c00-413e-9238-21034c9109b4",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE DOM",
+                        "source_uuid": "3a92d953-45dd-400b-8e30-9b8d2e57a47b",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1510.0,
+                            "y": 79.0
+                        },
+                        "scale": {
+                            "x": 0.8828125,
+                            "y": 0.88148146867752075
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 830,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE 15m Footprint Scalp",
+                        "source_uuid": "1e5110c1-2e7f-4099-ae5f-74422003ef4f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 400,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE Tape",
+                        "source_uuid": "516de7bf-b923-482f-9bc0-4807e32ca748",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.69444441795349121,
+                            "y": 0.69444441795349121
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 35,
+                        "crop_right": 380,
+                        "crop_bottom": 535,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "RNDR Scalp",
+            "uuid": "cd917827-9689-47e9-a5f2-36ccd65d2339",
+            "id": "group",
+            "versioned_id": "group",
+            "settings": {
+                "id_counter": 0,
+                "custom_size": true,
+                "cx": 1920,
+                "cy": 1080,
+                "items": [
+                    {
+                        "name": "Color Source RNDR Scalp",
+                        "source_uuid": "06998f09-20d1-4153-ab8e-ed6cbb9adf84",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR DOM",
+                        "source_uuid": "f9bc46b5-7d13-4369-ad7b-cc1b1a83c206",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1510.0,
+                            "y": 79.0
+                        },
+                        "scale": {
+                            "x": 0.8828125,
+                            "y": 0.88148146867752075
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 830,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR 15m Footprint Scalp",
+                        "source_uuid": "34a08467-400d-4bf9-81bb-c0647e1bd67b",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 400,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR Tape",
+                        "source_uuid": "b47dab6a-c656-431d-8a68-790e2c9b8d3f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.69444441795349121,
+                            "y": 0.69444441795349121
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 35,
+                        "crop_right": 380,
+                        "crop_bottom": 535,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
         }
     ],
     "quick_transitions": [
@@ -6213,28 +6603,7 @@
         }
     ],
     "transitions": [],
-    "saved_projectors": [
-        {
-            "monitor": -1,
-            "type": 4,
-            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAJYQAAARQAAAtAAAACIQAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "SOL Scalp",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAAeA////+AAADv8AAAQ3AAAKMwAAAWwAAAwSAAACeQAAAAICAAAAB4AAAAeAAAAAFwAADv8AAAQ3",
-            "alwaysOnTopOverridden": false
-        },
-        {
-            "name": "GRT Scalp",
-            "monitor": -1,
-            "type": 0,
-            "geometry": "AdnQywADAAAAAADiAAABRgAAAsEAAAJyAAAA4gAAAWUAAALBAAACcgAAAAAAAAAAB4AAAADiAAABZQAAAsEAAAJy",
-            "alwaysOnTopOverridden": false
-        }
-    ],
+    "saved_projectors": [],
     "current_transition": "Fade",
     "transition_duration": 300,
     "preview_locked": false,
@@ -10565,7 +10934,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     }
                 ]
@@ -11196,6 +11565,58 @@
             "prev_ver": 503316480,
             "name": "Color Source OP Scalp",
             "uuid": "df13a49e-222c-45f3-b38a-787c23a88b9e",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4281017633
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "Color Source RNDR Scalp",
+            "uuid": "06998f09-20d1-4153-ab8e-ed6cbb9adf84",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4281017633
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "Color Source ROSE Scalp",
+            "uuid": "03cf0d9f-2c00-413e-9238-21034c9109b4",
             "id": "color_source",
             "versioned_id": "color_source_v3",
             "settings": {
@@ -13509,7 +13930,7 @@
                         "crop_left": 35,
                         "crop_top": 540,
                         "crop_right": 535,
-                        "crop_bottom": 0,
+                        "crop_bottom": 535,
                         "id": 5,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -14205,7 +14626,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=delta&settings[cluster_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=140583&query=binance+futures+link+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.01&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=3&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=60&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Borderbook_enabled%5D=true&settings[volume_profile_style]=stacked&settings[cluster_style]=stacked&settings%5Blower_charts%5D%5B%5D=open_interest",
                 "width": 1920,
                 "height": 1080,
                 "shutdown": true,
@@ -15926,6 +16347,668 @@
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.5": [],
                 "libobs.hide_scene_item.5": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "RNDR 15m Footprint Scalp",
+            "uuid": "34a08467-400d-4bf9-81bb-c0647e1bd67b",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "css": "",
+                "height": 1080,
+                "width": 1920,
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=235604227&query=binance+futures+rndr+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.005&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Blower_charts%5D%5B%5D=open_interest&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "RNDR DOM",
+            "uuid": "f9bc46b5-7d13-4369-ad7b-cc1b1a83c206",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
+                "shutdown": true,
+                "height": 1080,
+                "width": 1280,
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=235604227&query=binance+futures+rndr+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0025&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "RNDR Tape",
+            "uuid": "b47dab6a-c656-431d-8a68-790e2c9b8d3f",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "height": 1080,
+                "width": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=235604227&query=binance+futures+rndr+usdt+perp&settings%5Bprice_precision%5D=4&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=25.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "RNDR_",
+            "uuid": "2b7ae55a-1f4f-45a2-958a-a357b8d6a5cb",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 5,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "Color Source RNDR Scalp",
+                        "source_uuid": "06998f09-20d1-4153-ab8e-ed6cbb9adf84",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR DOM",
+                        "source_uuid": "f9bc46b5-7d13-4369-ad7b-cc1b1a83c206",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1510.0,
+                            "y": 79.0
+                        },
+                        "scale": {
+                            "x": 0.8828125,
+                            "y": 0.88148146867752075
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 830,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR 15m Footprint Scalp",
+                        "source_uuid": "34a08467-400d-4bf9-81bb-c0647e1bd67b",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 400,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR Tape",
+                        "source_uuid": "b47dab6a-c656-431d-8a68-790e2c9b8d3f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.69444441795349121,
+                            "y": 0.69444441795349121
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 35,
+                        "crop_right": 380,
+                        "crop_bottom": 535,
+                        "id": 5,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "RNDR Scalp",
+                        "source_uuid": "cd917827-9689-47e9-a5f2-36ccd65d2339",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "ROSE 15m Footprint Scalp",
+            "uuid": "1e5110c1-2e7f-4099-ae5f-74422003ef4f",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1920,
+                "height": 1080,
+                "shutdown": true,
+                "css": "",
+                "url": "https://cignals.io/vc?settings%5Binstrument_id%5D=139822&query=binance+futures+rose+usdt+perp&settings%5Btime_tick_size%5D=15m&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Borientation%5D=sell-buy&settings%5Bei_threshold%5D=0.5&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bperiod_width%5D=60&settings%5Bvalue_area_share%5D=70&settings%5Btzname%5D=US%2FCentral&settings%5Bmax_refresh_rate%5D=30&settings%5Bmax_lookback_periods%5D=100&settings%5Bcolor_scale_scope%5D=window&settings%5Bcluster_composite_scale_scope%5D=bar&settings%5Bcluster_composite_style%5D=histogram&settings%5Bbalanced_target%5D=most_recent&settings%5Boverlays%5D=&settings%5Boverlays%5D%5B%5D=vwap&settings%5Blower_charts%5D=&settings%5Blower_charts%5D%5B%5D=open_interest&settings%5Borderbook_enabled%5D=true&settings%5Boptional_components%5D=&settings%5Boptional_components%5D%5B%5D=info&settings[cluster_style]=stacked&settings[volume_profile_style]=stacked"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "ROSE DOM",
+            "uuid": "3a92d953-45dd-400b-8e30-9b8d2e57a47b",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "shutdown": true,
+                "width": 1280,
+                "height": 1080,
+                "css": "td.pull_stack_ask { \n    width: 7.5% !important;\n}\ntd.pull_stack_bid { \n    width: 7.5% !important;; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=139822&query=binance+futures+rose+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=0.0001&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "ROSE Tape",
+            "uuid": "516de7bf-b923-482f-9bc0-4807e32ca748",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 50.0vh; \n}\ntd.z { \n\tdisplay: none !important; \n}",
+                "shutdown": true,
+                "width": 1080,
+                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=139822&query=binance+futures+rose+usdt+perp&settings%5Bprice_precision%5D=5&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=1000.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316480,
+            "name": "ROSE_",
+            "uuid": "0943a7fd-b2ff-4dc7-8f9b-3660bed07b15",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 5,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "Color Source ROSE Scalp",
+                        "source_uuid": "03cf0d9f-2c00-413e-9238-21034c9109b4",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE DOM",
+                        "source_uuid": "3a92d953-45dd-400b-8e30-9b8d2e57a47b",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1510.0,
+                            "y": 79.0
+                        },
+                        "scale": {
+                            "x": 0.8828125,
+                            "y": 0.88148146867752075
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 830,
+                        "crop_top": 35,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE 15m Footprint Scalp",
+                        "source_uuid": "1e5110c1-2e7f-4099-ae5f-74422003ef4f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 400,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE Tape",
+                        "source_uuid": "516de7bf-b923-482f-9bc0-4807e32ca748",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.69444441795349121,
+                            "y": 0.69444441795349121
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 35,
+                        "crop_right": 380,
+                        "crop_bottom": 535,
+                        "id": 5,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ROSE Scalp",
+                        "source_uuid": "00b095e3-4996-44ae-8640-56a40bbec778",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
