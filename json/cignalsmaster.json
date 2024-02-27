@@ -6507,89 +6507,13 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | TAPE 25.0",
-                        "source_uuid": "c20b4d17-3337-4227-8f31-d6a9efdb8200",
-                        "visible": false,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1600.0,
-                            "y": 735.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 30,
-                        "crop_right": 380,
-                        "crop_bottom": 720,
-                        "id": 21,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC | TAPE 1.0",
-                        "source_uuid": "aa64ff25-09dd-4f3c-9327-0782088743f1",
-                        "visible": false,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1600.0,
-                            "y": 4.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 30,
-                        "crop_right": 380,
-                        "crop_bottom": 325,
-                        "id": 19,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "BTC | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1355.0,
+                            "x": 1350.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -6628,7 +6552,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1610.0,
-                            "y": 25.0
+                            "y": 46.0
                         },
                         "scale": {
                             "x": 0.95833331346511841,
@@ -6666,7 +6590,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1605.0,
-                            "y": 23.0
+                            "y": 44.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -6703,8 +6627,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1610.0,
-                            "y": 516.0
+                            "x": 1608.0,
+                            "y": 550.4583740234375
                         },
                         "scale": {
                             "x": 0.95833331346511841,
@@ -6741,8 +6665,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1605.0,
-                            "y": 516.5
+                            "x": 1604.0,
+                            "y": 547.5
                         },
                         "scale": {
                             "x": 1.0,
@@ -6790,10 +6714,6 @@
                 "libobs.hide_scene_item.20": [],
                 "libobs.show_scene_item.18": [],
                 "libobs.hide_scene_item.18": [],
-                "libobs.show_scene_item.21": [],
-                "libobs.hide_scene_item.21": [],
-                "libobs.show_scene_item.19": [],
-                "libobs.hide_scene_item.19": [],
                 "libobs.show_scene_item.22": [],
                 "libobs.hide_scene_item.22": [],
                 "libobs.show_scene_item.25": [],
@@ -8843,89 +8763,13 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | TAPE 25.0",
-                        "source_uuid": "c20b4d17-3337-4227-8f31-d6a9efdb8200",
-                        "visible": false,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1600.0,
-                            "y": 735.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 30,
-                        "crop_right": 380,
-                        "crop_bottom": 720,
-                        "id": 21,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC | TAPE 1.0",
-                        "source_uuid": "aa64ff25-09dd-4f3c-9327-0782088743f1",
-                        "visible": false,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1600.0,
-                            "y": 4.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 380,
-                        "crop_top": 30,
-                        "crop_right": 380,
-                        "crop_bottom": 325,
-                        "id": 19,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "BTC | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1355.0,
+                            "x": 1350.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -8964,7 +8808,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1610.0,
-                            "y": 25.0
+                            "y": 46.0
                         },
                         "scale": {
                             "x": 0.95833331346511841,
@@ -9002,7 +8846,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1605.0,
-                            "y": 23.0
+                            "y": 44.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -9039,8 +8883,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1610.0,
-                            "y": 516.0
+                            "x": 1608.0,
+                            "y": 550.4583740234375
                         },
                         "scale": {
                             "x": 0.95833331346511841,
@@ -9077,8 +8921,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1605.0,
-                            "y": 516.5
+                            "x": 1604.0,
+                            "y": 547.5
                         },
                         "scale": {
                             "x": 1.0,
@@ -9145,7 +8989,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -10303,10 +10147,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}\n"
+                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 5.5% !important; \n}\ntd.ask { \n    width: 5.5% !important; \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -10343,77 +10187,6 @@
                 "width": 1080,
                 "height": 1080,
                 "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n.tape-container { \n \t height: 50.0vh; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
-            "name": "BTC | TAPE 1.0",
-            "uuid": "aa64ff25-09dd-4f3c-9327-0782088743f1",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
-                "width": 1080,
-                "height": 1080,
-                "css": "td.timestamp { \n \t display: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 67.5vh; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
-            "name": "BTC | TAPE 25.0",
-            "uuid": "c20b4d17-3337-4227-8f31-d6a9efdb8200",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "undo_uuid": "c20b4d17-3337-4227-8f31-d6a9efdb8200",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=25.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
-                "width": 1080,
-                "height": 1080,
-                "css": "td.timestamp { \n  \tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n  \theight: 30vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
