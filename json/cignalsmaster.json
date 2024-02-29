@@ -747,10 +747,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source ETH ",
@@ -1131,10 +1131,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "AVAX  Colour Source Background",
@@ -1323,10 +1323,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "LINK  Colour Source Background",
@@ -1515,10 +1515,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "MATIC  Colour Source Background",
@@ -1707,10 +1707,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "OCEAN  Colour Source Background",
@@ -1899,10 +1899,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "FET  Colour Source Background",
@@ -2091,10 +2091,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 2498,
                 "cy": 1045,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Background_LDO",
@@ -2281,10 +2281,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "OP Color Source Background",
@@ -2473,10 +2473,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source SOL Scalp",
@@ -2665,10 +2665,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source ETH Scalp",
@@ -2857,10 +2857,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source BTC Scalp",
@@ -3241,10 +3241,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source AVAX Scalp",
@@ -3433,10 +3433,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source FET Scalp",
@@ -3625,10 +3625,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source LDO Scalp",
@@ -3817,10 +3817,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source LINK Scalp",
@@ -4009,10 +4009,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source IMX Scalp",
@@ -4201,10 +4201,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source INJ Scalp",
@@ -4393,10 +4393,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source SNX Scalp",
@@ -4585,10 +4585,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source TIA Scalp",
@@ -4777,10 +4777,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source TRB Scalp",
@@ -4969,10 +4969,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source OP Scalp",
@@ -5161,10 +5161,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source OCEAN Scalp",
@@ -5353,10 +5353,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source MATIC Scalp",
@@ -5545,10 +5545,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source HBAR Scalp",
@@ -5737,10 +5737,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source GRT Scalp",
@@ -5929,10 +5929,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source ROSE Scalp",
@@ -6121,10 +6121,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source RNDR Scalp",
@@ -6313,10 +6313,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "PYTH \\ DOM",
@@ -6425,10 +6425,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1920,
                 "cy": 1080,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Color Source 3",
@@ -6472,10 +6472,10 @@
                         "name": "BTC | DOM",
                         "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 20.0,
+                            "x": 489.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -6489,7 +6489,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 595,
+                        "crop_left": 500,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -6510,15 +6510,15 @@
                         "name": "BTC | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1350.0,
+                            "x": 230.0,
                             "y": 15.0
                         },
                         "scale": {
-                            "x": 0.95833325386047363,
-                            "y": 0.95833331346511841
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -6545,18 +6545,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Perp | Tape",
-                        "source_uuid": "0c178870-b860-4b79-ab01-5d402aeb777f",
+                        "name": "BTC | Perp | 25.0 Tape",
+                        "source_uuid": "6d84f3c6-25b6-414d-8562-33e17350b878",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1610.0,
-                            "y": 46.0
+                            "x": 17.0,
+                            "y": 688.0
                         },
                         "scale": {
-                            "x": 0.95833331346511841,
-                            "y": 0.95833331346511841
+                            "x": 0.71034485101699829,
+                            "y": 0.70985913276672363
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -6565,10 +6565,48 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 400,
                         "crop_top": 35,
-                        "crop_right": 380,
-                        "crop_bottom": 530,
+                        "crop_right": 385,
+                        "crop_bottom": 515,
+                        "id": 32,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Perp | Tape 0.05",
+                        "source_uuid": "0c178870-b860-4b79-ab01-5d402aeb777f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 17.0,
+                            "y": 58.0
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27751195430755615
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
                         "id": 25,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -6583,14 +6621,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Perp Tape Top",
+                        "name": "Perp | Tape | Top 0.05",
                         "source_uuid": "38fe710e-2852-4435-af9a-20e9f766cc1b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1605.0,
-                            "y": 44.0
+                            "x": 13.0,
+                            "y": 25.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -6605,8 +6643,8 @@
                         },
                         "crop_left": 390,
                         "crop_top": 507,
-                        "crop_right": 380,
-                        "crop_bottom": 532,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
                         "id": 26,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -6621,18 +6659,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC Spot Tape",
-                        "source_uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+                        "name": "BTC | Perp | Tape | 0.5",
+                        "source_uuid": "dc0547bb-ccaa-4d42-a314-df955c07d309",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1608.0,
-                            "y": 550.4583740234375
+                            "x": 119.0,
+                            "y": 59.0
                         },
                         "scale": {
-                            "x": 0.95833331346511841,
-                            "y": 0.95833331346511841
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -6641,11 +6679,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 470,
                         "crop_top": 35,
-                        "crop_right": 380,
-                        "crop_bottom": 530,
-                        "id": 23,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 31,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -6659,14 +6697,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Spot Tape Top",
-                        "source_uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
+                        "name": "Perp | Tape | Top | 0.5",
+                        "source_uuid": "20529608-8d16-4cd6-89de-b514a2de7947",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1604.0,
-                            "y": 547.5
+                            "x": 113.0,
+                            "y": 25.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -6681,9 +6719,161 @@
                         },
                         "crop_left": 390,
                         "crop_top": 507,
-                        "crop_right": 380,
-                        "crop_bottom": 532,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
+                        "id": 29,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Spot | Tape 0.05",
+                        "source_uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 20.0,
+                            "y": 394.86111450195312
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 23,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Spot | Tape | Top 0.05",
+                        "source_uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 12.0,
+                            "y": 358.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 507,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
                         "id": 27,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Bitfinex | Spot | Tape 0.05",
+                        "source_uuid": "f0b8d36c-f6e3-4570-9f39-5714b0e97496",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 121.0,
+                            "y": 394.861083984375
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 30,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Bitfinex | Spot | Tape | Top 0.05",
+                        "source_uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 115.0,
+                            "y": 358.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 507,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
+                        "id": 28,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -6716,14 +6906,24 @@
                 "libobs.hide_scene_item.18": [],
                 "libobs.show_scene_item.22": [],
                 "libobs.hide_scene_item.22": [],
+                "libobs.show_scene_item.32": [],
+                "libobs.hide_scene_item.32": [],
                 "libobs.show_scene_item.25": [],
                 "libobs.hide_scene_item.25": [],
                 "libobs.show_scene_item.26": [],
                 "libobs.hide_scene_item.26": [],
+                "libobs.show_scene_item.31": [],
+                "libobs.hide_scene_item.31": [],
+                "libobs.show_scene_item.29": [],
+                "libobs.hide_scene_item.29": [],
                 "libobs.show_scene_item.23": [],
                 "libobs.hide_scene_item.23": [],
                 "libobs.show_scene_item.27": [],
-                "libobs.hide_scene_item.27": []
+                "libobs.hide_scene_item.27": [],
+                "libobs.show_scene_item.30": [],
+                "libobs.hide_scene_item.30": [],
+                "libobs.show_scene_item.28": [],
+                "libobs.hide_scene_item.28": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -6809,8 +7009,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 0,
                 "custom_size": false,
+                "id_counter": 0,
                 "items": []
             },
             "mixers": 0,
@@ -6839,8 +7039,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 27,
                 "custom_size": false,
+                "id_counter": 32,
                 "items": [
                     {
                         "name": "OP Color Source Background",
@@ -8728,10 +8928,10 @@
                         "name": "BTC | DOM",
                         "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 20.0,
+                            "x": 489.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -8745,7 +8945,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 595,
+                        "crop_left": 500,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -8766,15 +8966,15 @@
                         "name": "BTC | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1350.0,
+                            "x": 230.0,
                             "y": 15.0
                         },
                         "scale": {
-                            "x": 0.95833325386047363,
-                            "y": 0.95833331346511841
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -8801,18 +9001,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Perp | Tape",
-                        "source_uuid": "0c178870-b860-4b79-ab01-5d402aeb777f",
+                        "name": "BTC | Perp | 25.0 Tape",
+                        "source_uuid": "6d84f3c6-25b6-414d-8562-33e17350b878",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1610.0,
-                            "y": 46.0
+                            "x": 17.0,
+                            "y": 688.0
                         },
                         "scale": {
-                            "x": 0.95833331346511841,
-                            "y": 0.95833331346511841
+                            "x": 0.71034485101699829,
+                            "y": 0.70985913276672363
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -8821,10 +9021,48 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 400,
                         "crop_top": 35,
-                        "crop_right": 380,
-                        "crop_bottom": 530,
+                        "crop_right": 385,
+                        "crop_bottom": 515,
+                        "id": 32,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Perp | Tape 0.05",
+                        "source_uuid": "0c178870-b860-4b79-ab01-5d402aeb777f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 17.0,
+                            "y": 58.0
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27751195430755615
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
                         "id": 25,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -8839,14 +9077,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Perp Tape Top",
+                        "name": "Perp | Tape | Top 0.05",
                         "source_uuid": "38fe710e-2852-4435-af9a-20e9f766cc1b",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1605.0,
-                            "y": 44.0
+                            "x": 13.0,
+                            "y": 25.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -8861,8 +9099,8 @@
                         },
                         "crop_left": 390,
                         "crop_top": 507,
-                        "crop_right": 380,
-                        "crop_bottom": 532,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
                         "id": 26,
                         "group_item_backup": true,
                         "scale_filter": "disable",
@@ -8877,18 +9115,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC Spot Tape",
-                        "source_uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+                        "name": "BTC | Perp | Tape | 0.5",
+                        "source_uuid": "dc0547bb-ccaa-4d42-a314-df955c07d309",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1608.0,
-                            "y": 550.4583740234375
+                            "x": 119.0,
+                            "y": 59.0
                         },
                         "scale": {
-                            "x": 0.95833331346511841,
-                            "y": 0.95833331346511841
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -8897,11 +9135,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 470,
                         "crop_top": 35,
-                        "crop_right": 380,
-                        "crop_bottom": 530,
-                        "id": 23,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 31,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -8915,14 +9153,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Spot Tape Top",
-                        "source_uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
+                        "name": "Perp | Tape | Top | 0.5",
+                        "source_uuid": "20529608-8d16-4cd6-89de-b514a2de7947",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1604.0,
-                            "y": 547.5
+                            "x": 113.0,
+                            "y": 25.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -8937,9 +9175,161 @@
                         },
                         "crop_left": 390,
                         "crop_top": 507,
-                        "crop_right": 380,
-                        "crop_bottom": 532,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
+                        "id": 29,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Spot | Tape 0.05",
+                        "source_uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 20.0,
+                            "y": 394.86111450195312
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 23,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Spot | Tape | Top 0.05",
+                        "source_uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 12.0,
+                            "y": 358.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 507,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
                         "id": 27,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Bitfinex | Spot | Tape 0.05",
+                        "source_uuid": "f0b8d36c-f6e3-4570-9f39-5714b0e97496",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 121.0,
+                            "y": 394.861083984375
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 30,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Bitfinex | Spot | Tape | Top 0.05",
+                        "source_uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 115.0,
+                            "y": 358.5
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 507,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
+                        "id": 28,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -8956,7 +9346,7 @@
                         "name": "DOM | Tape | BTC",
                         "source_uuid": "d95bc1ca-f59d-4b2d-9940-50db81cd0e0d",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -8989,7 +9379,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     }
                 ]
@@ -9464,8 +9854,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 7,
                 "custom_size": false,
+                "id_counter": 7,
                 "items": [
                     {
                         "name": "Color Source AVAX Scalp",
@@ -9925,6 +10315,41 @@
         },
         {
             "prev_ver": 503316482,
+            "name": "Bitfinex | Spot | Tape | Top 0.05",
+            "uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=8&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
             "name": "bitfinex/btc/usd/spot/100.0",
             "uuid": "26ffae04-73ae-4244-af3b-180998ed60e2",
             "id": "browser_source",
@@ -10071,15 +10496,16 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "BTC Spot Tape",
-            "uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+            "name": "BTC | Bitfinex | Spot | Tape 0.05",
+            "uuid": "f0b8d36c-f6e3-4570-9f39-5714b0e97496",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=8&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n.tape-container { \n \t height: 50.0vh; \n}\n"
+                "shutdown": true,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -10112,10 +10538,10 @@
             "versioned_id": "browser_source",
             "settings": {
                 "undo_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
-                "css": ""
+                "css": "td.liquidations { \n\t\tdisplay: none !important;\n  \t}"
             },
             "mixers": 255,
             "sync": 0,
@@ -10147,7 +10573,7 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
                 "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 5.5% !important; \n}\ntd.ask { \n    width: 5.5% !important; \n}\n"
@@ -10177,16 +10603,121 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "BTC | Perp | Tape",
+            "name": "BTC | Perp | 25.0 Tape",
+            "uuid": "6d84f3c6-25b6-414d-8562-33e17350b878",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=25.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 48.5vh;  \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Perp | Tape 0.05",
             "uuid": "0c178870-b860-4b79-ab01-5d402aeb777f",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
                 "undo_uuid": "0c178870-b860-4b79-ab01-5d402aeb777f",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n.tape-container { \n \t height: 50.0vh; \n}"
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Perp | Tape | 0.5",
+            "uuid": "dc0547bb-ccaa-4d42-a314-df955c07d309",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.5&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Spot | Tape 0.05",
+            "uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -10866,7 +11397,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -12317,8 +12848,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 7,
                 "custom_size": false,
+                "id_counter": 7,
                 "items": [
                     {
                         "name": "Color Source ETH Scalp",
@@ -12784,8 +13315,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 8,
                 "custom_size": false,
+                "id_counter": 8,
                 "items": [
                     {
                         "name": "Color Source FET Scalp",
@@ -13117,8 +13648,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source GRT Scalp",
@@ -13448,8 +13979,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source HBAR Scalp",
@@ -13781,8 +14312,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source IMX Scalp",
@@ -14114,8 +14645,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source INJ Scalp",
@@ -14554,8 +15085,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 7,
                 "custom_size": false,
+                "id_counter": 7,
                 "items": [
                     {
                         "name": "Color Source LDO Scalp",
@@ -15022,8 +15553,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 9,
                 "custom_size": false,
+                "id_counter": 9,
                 "items": [
                     {
                         "name": "Color Source LINK Scalp",
@@ -15489,8 +16020,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 9,
                 "custom_size": false,
+                "id_counter": 9,
                 "items": [
                     {
                         "name": "Color Source MATIC Scalp",
@@ -15956,8 +16487,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 10,
                 "custom_size": false,
+                "id_counter": 10,
                 "items": [
                     {
                         "name": "Color Source OCEAN Scalp",
@@ -16423,8 +16954,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 9,
                 "custom_size": false,
+                "id_counter": 9,
                 "items": [
                     {
                         "name": "Color Source OP Scalp",
@@ -16643,15 +17174,50 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "Perp Tape Top",
+            "name": "Perp | Tape | Top 0.05",
             "uuid": "38fe710e-2852-4435-af9a-20e9f766cc1b",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": false,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "Perp | Tape | Top | 0.5",
+            "uuid": "20529608-8d16-4cd6-89de-b514a2de7947",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.5&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
+                "width": 1080,
+                "height": 1080,
                 "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
             },
             "mixers": 255,
@@ -16864,8 +17430,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source RNDR Scalp",
@@ -17195,8 +17761,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source ROSE Scalp",
@@ -17526,8 +18092,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source SNX Scalp",
@@ -17998,8 +18564,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 11,
                 "custom_size": false,
+                "id_counter": 11,
                 "items": [
                     {
                         "name": "Color Source SOL Scalp",
@@ -18218,7 +18784,7 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "Spot Tape Top",
+            "name": "Spot | Tape | Top 0.05",
             "uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
             "id": "browser_source",
             "versioned_id": "browser_source",
@@ -18366,8 +18932,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source TIA Scalp",
@@ -18699,8 +19265,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
                 "custom_size": false,
+                "id_counter": 5,
                 "items": [
                     {
                         "name": "Color Source TRB Scalp",
