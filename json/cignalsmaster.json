@@ -6475,7 +6475,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 489.0,
+                            "x": 267.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -6489,7 +6489,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 500,
+                        "crop_left": 595,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -6507,13 +6507,13 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | DOM | Spot",
+                        "name": "BTC | Binance | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 230.0,
+                            "x": 1616.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -6527,49 +6527,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 820,
+                        "crop_left": 815,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
                         "id": 22,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC | Perp | 25.0 Tape",
-                        "source_uuid": "6d84f3c6-25b6-414d-8562-33e17350b878",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 17.0,
-                            "y": 688.0
-                        },
-                        "scale": {
-                            "x": 0.71034485101699829,
-                            "y": 0.70985913276672363
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 400,
-                        "crop_top": 35,
-                        "crop_right": 385,
-                        "crop_bottom": 515,
-                        "id": 32,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -6735,14 +6697,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Perp | Tape | 1.0",
+                        "name": "BTC | Spot | Tape |Binance | 0.05",
                         "source_uuid": "5f6562c8-5c80-48c4-a31f-d31bd112ae3b",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 222.0,
-                            "y": 63.0
+                            "x": 13.0,
+                            "y": 738.0
                         },
                         "scale": {
                             "x": 0.27777779102325439,
@@ -6773,14 +6735,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Perp | Tape | Top | 1.0",
+                        "name": "BTC | Spot | Tape |Binance | Top | 1.0",
                         "source_uuid": "9938376e-4a92-41ca-9547-c3a591fbd09a",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 215.0,
-                            "y": 24.5
+                            "x": 9.0,
+                            "y": 702.5
                         },
                         "scale": {
                             "x": 1.0,
@@ -6811,7 +6773,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Spot | Tape 0.05",
+                        "name": "BTC | Bybit | perp| Tape 0.05",
                         "source_uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
                         "visible": true,
                         "locked": true,
@@ -6849,7 +6811,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Spot | Tape | Top 0.05",
+                        "name": "BTC | Bybit | Perp | Tape | Top 0.05",
                         "source_uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
                         "visible": true,
                         "locked": true,
@@ -6887,7 +6849,83 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Bitfinex | Spot | Tape 0.05",
+                        "name": "BTC | Bitfinex | Tape 0.05",
+                        "source_uuid": "2d1990c8-24bd-468f-ab4d-855cc1d694f3",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 118.0,
+                            "y": 738.0
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 35,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Bitfinex | Tape | Top |  0.05",
+                        "source_uuid": "5e8e87c2-1eee-413d-a295-40a217231a14",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 111.0,
+                            "y": 703.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 507,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
+                        "id": 36,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Bybit | Perp| Tape 0.25",
                         "source_uuid": "f0b8d36c-f6e3-4570-9f39-5714b0e97496",
                         "visible": true,
                         "locked": true,
@@ -6925,7 +6963,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Bitfinex | Spot | Tape | Top 0.05",
+                        "name": "BTC  | Bybit | perp| Tape | Top 0.25",
                         "source_uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
                         "visible": true,
                         "locked": true,
@@ -6982,8 +7020,6 @@
                 "libobs.hide_scene_item.18": [],
                 "libobs.show_scene_item.22": [],
                 "libobs.hide_scene_item.22": [],
-                "libobs.show_scene_item.32": [],
-                "libobs.hide_scene_item.32": [],
                 "libobs.show_scene_item.25": [],
                 "libobs.hide_scene_item.25": [],
                 "libobs.show_scene_item.26": [],
@@ -7000,6 +7036,10 @@
                 "libobs.hide_scene_item.23": [],
                 "libobs.show_scene_item.27": [],
                 "libobs.hide_scene_item.27": [],
+                "libobs.show_scene_item.35": [],
+                "libobs.hide_scene_item.35": [],
+                "libobs.show_scene_item.36": [],
+                "libobs.hide_scene_item.36": [],
                 "libobs.show_scene_item.30": [],
                 "libobs.hide_scene_item.30": [],
                 "libobs.show_scene_item.28": [],
@@ -7120,7 +7160,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 34,
+                "id_counter": 37,
                 "items": [
                     {
                         "name": "OP Color Source Background",
@@ -9011,7 +9051,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 489.0,
+                            "x": 267.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -9025,7 +9065,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 500,
+                        "crop_left": 595,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -9043,13 +9083,13 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | DOM | Spot",
+                        "name": "BTC | Binance | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 230.0,
+                            "x": 1616.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -9063,49 +9103,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 820,
+                        "crop_left": 815,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
                         "id": 22,
-                        "group_item_backup": true,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "BTC | Perp | 25.0 Tape",
-                        "source_uuid": "6d84f3c6-25b6-414d-8562-33e17350b878",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 17.0,
-                            "y": 688.0
-                        },
-                        "scale": {
-                            "x": 0.71034485101699829,
-                            "y": 0.70985913276672363
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "crop_left": 400,
-                        "crop_top": 35,
-                        "crop_right": 385,
-                        "crop_bottom": 515,
-                        "id": 32,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -9271,14 +9273,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Perp | Tape | 1.0",
+                        "name": "BTC | Spot | Tape |Binance | 0.05",
                         "source_uuid": "5f6562c8-5c80-48c4-a31f-d31bd112ae3b",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 222.0,
-                            "y": 63.0
+                            "x": 13.0,
+                            "y": 738.0
                         },
                         "scale": {
                             "x": 0.27777779102325439,
@@ -9309,14 +9311,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Perp | Tape | Top | 1.0",
+                        "name": "BTC | Spot | Tape |Binance | Top | 1.0",
                         "source_uuid": "9938376e-4a92-41ca-9547-c3a591fbd09a",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 215.0,
-                            "y": 24.5
+                            "x": 9.0,
+                            "y": 702.5
                         },
                         "scale": {
                             "x": 1.0,
@@ -9347,7 +9349,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Spot | Tape 0.05",
+                        "name": "BTC | Bybit | perp| Tape 0.05",
                         "source_uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
                         "visible": true,
                         "locked": true,
@@ -9385,7 +9387,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Spot | Tape | Top 0.05",
+                        "name": "BTC | Bybit | Perp | Tape | Top 0.05",
                         "source_uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
                         "visible": true,
                         "locked": true,
@@ -9423,7 +9425,83 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Bitfinex | Spot | Tape 0.05",
+                        "name": "BTC | Bitfinex | Tape 0.05",
+                        "source_uuid": "2d1990c8-24bd-468f-ab4d-855cc1d694f3",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 118.0,
+                            "y": 738.0
+                        },
+                        "scale": {
+                            "x": 0.27777779102325439,
+                            "y": 0.27777779102325439
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 470,
+                        "crop_top": 35,
+                        "crop_right": 250,
+                        "crop_bottom": 0,
+                        "id": 35,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Bitfinex | Tape | Top |  0.05",
+                        "source_uuid": "5e8e87c2-1eee-413d-a295-40a217231a14",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 111.0,
+                            "y": 703.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 390,
+                        "crop_top": 507,
+                        "crop_right": 588,
+                        "crop_bottom": 535,
+                        "id": 36,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "BTC | Bybit | Perp| Tape 0.25",
                         "source_uuid": "f0b8d36c-f6e3-4570-9f39-5714b0e97496",
                         "visible": true,
                         "locked": true,
@@ -9461,7 +9539,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Bitfinex | Spot | Tape | Top 0.05",
+                        "name": "BTC  | Bybit | perp| Tape | Top 0.25",
                         "source_uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
                         "visible": true,
                         "locked": true,
@@ -10471,15 +10549,18 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "Bitfinex | Spot | Tape | Top 0.05",
-            "uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
+            "name": "bitfinex/btc/usd/spot/100.0",
+            "uuid": "26ffae04-73ae-4244-af3b-180998ed60e2",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=8&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
+                "undo_sname": "coinbase/btc/usd/spot",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=50.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
+                "fps_custom": false,
+                "shutdown": false,
+                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -10506,18 +10587,15 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "bitfinex/btc/usd/spot/100.0",
-            "uuid": "26ffae04-73ae-4244-af3b-180998ed60e2",
+            "name": "BTC  | Bybit | perp| Tape | Top 0.25",
+            "uuid": "1e0c93a7-5a6d-4b13-b9ef-9541de7d3194",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "undo_sname": "coinbase/btc/usd/spot",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=50.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=&settings[volume_profile_style]=delta\n",
                 "width": 1080,
                 "height": 1080,
-                "fps_custom": false,
-                "shutdown": false,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 6.5% !important; \n}\ntd.ask { \n    width: 6.5% !important; \n}"
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.25&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
             },
             "mixers": 255,
             "sync": 0,
@@ -10652,16 +10730,192 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "BTC | Bitfinex | Spot | Tape 0.05",
+            "name": "BTC | Binance | DOM | Spot",
+            "uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "css": "td.pull_stack_ask { \n    display: none !important;\n}\ntd.pull_stack_bid { \n    display: none !important;\n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.price { \n    width: 5.5% !important; \n}\ntd.bid { \n    width: 3.5% !important; \n}\ntd.ask { \n    width: 3.5% !important; \n}\ntd.delta { \n    display: none !important;\n}\n",
+                "undo_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Bitfinex | Tape 0.05",
+            "uuid": "2d1990c8-24bd-468f-ab4d-855cc1d694f3",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "height": 1080,
+                "width": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=0&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Bitfinex | Tape | Top |  0.05",
+            "uuid": "5e8e87c2-1eee-413d-a295-40a217231a14",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "height": 1080,
+                "width": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=0&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Bybit | Perp | Tape | Top 0.05",
+            "uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Bybit | perp| Tape 0.05",
+            "uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1080,
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Bybit | Perp| Tape 0.25",
             "uuid": "f0b8d36c-f6e3-4570-9f39-5714b0e97496",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=8&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n",
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.25&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
             },
             "mixers": 255,
             "sync": 0,
@@ -10694,80 +10948,10 @@
             "versioned_id": "browser_source",
             "settings": {
                 "undo_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=25&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1920,
                 "height": 1080,
-                "css": "td.liquidations { \n\t\tdisplay: none !important;\n  \t}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
-            "name": "BTC | DOM | Spot",
-            "uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=delta\n",
-                "width": 1080,
-                "height": 1080,
-                "css": "td.pull_stack_ask { \n    display: none !important; \n}\ntd.pull_stack_bid { \n    display: none !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.delta { \n    display: none !important; \n}\ntd.price { \n    width: 5% !important; \n}\ntd.bid { \n    width: 5.5% !important; \n}\ntd.ask { \n    width: 5.5% !important; \n}\n"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
-            "name": "BTC | Perp | 25.0 Tape",
-            "uuid": "6d84f3c6-25b6-414d-8562-33e17350b878",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=25.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
-                "width": 1080,
-                "height": 1080,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 48.5vh;  \n}"
+                "css": ""
             },
             "mixers": 255,
             "sync": 0,
@@ -10865,15 +11049,50 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "BTC | Spot | Tape 0.05",
-            "uuid": "3721b1da-15d4-4a8b-b691-bf8ba94097e8",
+            "name": "BTC | Spot | Tape |Binance | 0.05",
+            "uuid": "5f6562c8-5c80-48c4-a31f-d31bd112ae3b",
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503316482,
+            "name": "BTC | Spot | Tape |Binance | Top | 1.0",
+            "uuid": "9938376e-4a92-41ca-9547-c3a591fbd09a",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
+                "height": 1080,
+                "width": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
             },
             "mixers": 255,
             "sync": 0,
@@ -11553,7 +11772,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -17330,41 +17549,6 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "Perp | Tape | 1.0",
-            "uuid": "5f6562c8-5c80-48c4-a31f-d31bd112ae3b",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "width": 1080,
-                "height": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=1.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120",
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
             "name": "Perp | Tape | Top 0.05",
             "uuid": "38fe710e-2852-4435-af9a-20e9f766cc1b",
             "id": "browser_source",
@@ -17410,41 +17594,6 @@
                 "width": 1080,
                 "height": 1080,
                 "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
-            "name": "Perp | Tape | Top | 1.0",
-            "uuid": "9938376e-4a92-41ca-9547-c3a591fbd09a",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
-                "height": 1080,
-                "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=50&settings%5Bmin_size_filter%5D=1.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120"
             },
             "mixers": 255,
             "sync": 0,
@@ -19002,41 +19151,6 @@
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.3": [],
                 "libobs.hide_scene_item.3": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 503316482,
-            "name": "Spot | Tape | Top 0.05",
-            "uuid": "f542dac8-c638-4069-b28d-7cf67b61ef2f",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
-                "width": 1080,
-                "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
