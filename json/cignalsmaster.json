@@ -6472,10 +6472,10 @@
                         "name": "BTC | DOM",
                         "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 267.0,
+                            "x": 263.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -6510,10 +6510,10 @@
                         "name": "BTC | Binance | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1616.0,
+                            "x": 1615.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -7160,7 +7160,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 37,
+                "id_counter": 38,
                 "items": [
                     {
                         "name": "OP Color Source Background",
@@ -9048,10 +9048,10 @@
                         "name": "BTC | DOM",
                         "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 267.0,
+                            "x": 263.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -9086,10 +9086,10 @@
                         "name": "BTC | Binance | DOM | Spot",
                         "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1616.0,
+                            "x": 1615.0,
                             "y": 15.0
                         },
                         "scale": {
@@ -9580,7 +9580,7 @@
                         "name": "DOM | Tape | BTC",
                         "source_uuid": "d95bc1ca-f59d-4b2d-9940-50db81cd0e0d",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -9670,7 +9670,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -9706,7 +9707,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -9742,7 +9744,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -9778,7 +9781,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -9814,7 +9818,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -10342,7 +10347,8 @@
                 "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=3&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=144",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -10378,7 +10384,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -10414,7 +10421,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -10450,7 +10458,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -10486,7 +10495,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -10592,10 +10602,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.25&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.25&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -10735,11 +10745,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "undo_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.pull_stack_ask { \n    display: none !important;\n}\ntd.pull_stack_bid { \n    display: none !important;\n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.price { \n    width: 5.5% !important; \n}\ntd.bid { \n    width: 3.5% !important; \n}\ntd.ask { \n    width: 3.5% !important; \n}\ntd.delta { \n    display: none !important;\n}\n",
-                "undo_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=100.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.pull_stack_ask { \n    display: none !important;\n}\ntd.pull_stack_bid { \n    display: none !important;\n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.price { \n    width: 5.5% !important; \n}\ntd.bid { \n    width: 3.5% !important; \n}\ntd.ask { \n    width: 3.5% !important; \n}\ntd.delta { \n    display: none !important;\n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -10771,10 +10781,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=0&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=0&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -10806,10 +10816,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=0&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=262&query=bitfinex+btc+usd&settings%5Bprice_precision%5D=0&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -10841,10 +10851,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -10876,10 +10886,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -10911,11 +10921,11 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.25&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
                 "shutdown": true,
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n",
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=10602&query=bybit+linear+btc+usdt+perp&settings%5Bprice_precision%5D=1&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.25&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -11054,9 +11064,9 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.amount { \n\tdisplay: none !important; \n}\n"
             },
             "mixers": 255,
@@ -11089,10 +11099,10 @@
             "id": "browser_source",
             "versioned_id": "browser_source",
             "settings": {
-                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}",
-                "height": 1080,
+                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
-                "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bscrollback_length%5D=100&settings%5Bmin_size_filter%5D=0.05&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D="
+                "height": 1080,
+                "css": "td.timestamp { \n\tdisplay: none !important; \n}\ntd.z { \n\tdisplay: none !important; \n\t}\n.tape-container { \n \t height: 50.0vh; \n}"
             },
             "mixers": 255,
             "sync": 0,
@@ -12197,7 +12207,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh; \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -12233,7 +12244,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -12268,7 +12280,8 @@
                 "url": "https://cignals.io/tape?settings%5Binstrument_id%5D=194&query=coinbase+pro+btc+usd&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=3&settings%5Bscrollback_length%5D=1000&settings%5Bmin_size_filter%5D=100.0&settings%5Bsize_display%5D=amount&settings%5Bmax_refresh_rate%5D=144",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -12304,7 +12317,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
@@ -12340,7 +12354,8 @@
                 "width": 1080,
                 "height": 1080,
                 "fps_custom": true,
-                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}"
+                "css": "td.timestamp { \n  display: none !important; \n}\ntd.z { \n  display: none !important; \n}\n.tape-container { \n  height: 37.5vh;  \n}",
+                "shutdown": true
             },
             "mixers": 255,
             "sync": 0,
