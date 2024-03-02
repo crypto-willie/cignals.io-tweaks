@@ -535,7 +535,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 165,
+                        "crop_left": 160,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -1272,7 +1272,7 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 165,
+                        "crop_left": 160,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
@@ -1364,7 +1364,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     }
                 ]
@@ -1613,7 +1613,7 @@
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=25&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings[volume_profile_style]=volume",
                 "width": 1280,
                 "height": 1080,
-                "css": "td.volume { \n    width: 36% !important; \n}\ntd.liquidations { \n\t\tdisplay: none !important;\n  \t}"
+                "css": "td.volume { \n    width: 42% !important; \n}\ntd.liquidations { \n\t\tdisplay: none !important;\n  \t}"
             },
             "mixers": 255,
             "sync": 0,
