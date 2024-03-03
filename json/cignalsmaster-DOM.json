@@ -515,18 +515,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Binance | DOM | Delta",
-                        "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
+                        "name": "BTC | DOM",
+                        "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1319.4444580078125,
-                            "y": 83.055564880371094
+                            "x": 216.0,
+                            "y": 34.44439697265625
                         },
                         "scale": {
-                            "x": 0.87037038803100586,
-                            "y": 0.87037038803100586
+                            "x": 0.96875,
+                            "y": 0.96296298503875732
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -535,11 +535,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 175,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 22,
+                        "id": 18,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -553,18 +553,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | DOM",
-                        "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
+                        "name": "BTC | Binance |Spot - DOM | Delta",
+                        "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 238.0,
-                            "y": 34.4444580078125
+                            "x": 1275.9259033203125,
+                            "y": 85.5
                         },
                         "scale": {
-                            "x": 0.96875,
-                            "y": 0.96296298503875732
+                            "x": 0.87037038803100586,
+                            "y": 0.87037038803100586
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -573,11 +573,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 170,
+                        "crop_left": 345,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 18,
+                        "id": 22,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -630,10 +630,10 @@
                 "libobs.hide_scene_item.27": [],
                 "libobs.show_scene_item.28": [],
                 "libobs.hide_scene_item.28": [],
-                "libobs.show_scene_item.22": [],
-                "libobs.hide_scene_item.22": [],
                 "libobs.show_scene_item.18": [],
-                "libobs.hide_scene_item.18": []
+                "libobs.hide_scene_item.18": [],
+                "libobs.show_scene_item.22": [],
+                "libobs.hide_scene_item.22": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1252,18 +1252,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | Binance | DOM | Delta",
-                        "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
+                        "name": "BTC | DOM",
+                        "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1319.4444580078125,
-                            "y": 83.055564880371094
+                            "x": 216.0,
+                            "y": 34.44439697265625
                         },
                         "scale": {
-                            "x": 0.87037038803100586,
-                            "y": 0.87037038803100586
+                            "x": 0.96875,
+                            "y": 0.96296298503875732
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -1272,11 +1272,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 390,
+                        "crop_left": 175,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 22,
+                        "id": 18,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -1290,18 +1290,18 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BTC | DOM",
-                        "source_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
+                        "name": "BTC | Binance |Spot - DOM | Delta",
+                        "source_uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
                         "visible": true,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 238.0,
-                            "y": 34.4444580078125
+                            "x": 1275.9259033203125,
+                            "y": 85.5
                         },
                         "scale": {
-                            "x": 0.96875,
-                            "y": 0.96296298503875732
+                            "x": 0.87037038803100586,
+                            "y": 0.87037038803100586
                         },
                         "align": 5,
                         "bounds_type": 0,
@@ -1310,11 +1310,11 @@
                             "x": 1.0,
                             "y": 1.0
                         },
-                        "crop_left": 170,
+                        "crop_left": 345,
                         "crop_top": 30,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 18,
+                        "id": 22,
                         "group_item_backup": true,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -1392,7 +1392,7 @@
         },
         {
             "prev_ver": 503316482,
-            "name": "BTC | Binance | DOM | Delta",
+            "name": "BTC | Binance |Spot - DOM | Delta",
             "uuid": "01e85115-a022-4795-8a28-d03c746daa5b",
             "id": "browser_source",
             "versioned_id": "browser_source",
@@ -1401,7 +1401,7 @@
                 "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=323&query=binance+btc+usdt&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=",
                 "width": 1080,
                 "height": 1080,
-                "css": "td.liquidations { \n\tdisplay: none !important;\n}\ntd.pull_stack_ask { \n    width: 5.5% !important; \n}\ntd.pull_stack_bid { \n    width: 5.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.price { \n    width: 5.5% !important; \n}\ntd.bid { \n    width: 3.5% !important; \n}\ntd.ask { \n    width: 3.5% !important; \n}\ntd.delta { \n    width: 24% !important;  \n}\n"
+                "css": "td.liquidations { \n\tdisplay: none !important;\n}\ntd.pull_stack_ask { \n    width: 5.5% !important; \n}\ntd.pull_stack_bid { \n    width: 5.5% !important; \n}\ntd.sell { \n    display: none !important;\n}\ntd.buy { \n    display: none !important;\n}\ntd.volume { \n    display: none !important; \n}\ntd.price { \n    width: 5.5% !important; \n}\ntd.bid { \n    width: 3.5% !important; \n}\ntd.ask { \n    width: 3.5% !important; \n}\ntd.delta { \n    width: 28% !important;  \n}\n"
             },
             "mixers": 255,
             "sync": 0,
@@ -1612,8 +1612,8 @@
                 "undo_uuid": "49c5a910-210b-44dc-b76e-96024baa71bd",
                 "width": 1280,
                 "height": 1080,
-                "css": "td.volume { \n    width: 36% !important; \n}\ntd.liquidations { \n\tdisplay: none !important;\n}",
-                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=25.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=&settings[volume_profile_style]=volume"
+                "url": "https://cignals.io/dom?settings%5Binstrument_id%5D=272&query=binance+futures+btc+usdt+perp&settings%5Btime_tick_size%5D=&settings%5Bprice_tick_size%5D=10.0&settings%5Bimbalance%5D=10&settings%5Bimbalance_method%5D=sibling&settings%5Bprice_precision%5D=2&settings%5Bsize_precision%5D=8&settings%5Bmax_refresh_rate%5D=120&settings%5Boptional_components%5D=&settings[volume_profile_style]=delta",
+                "css": "td.delta { \n    width: 48% !important; \n}\ntd.liquidations { \n\tdisplay: none !important;\n}\ntd.buy { \n\tdisplay: none !important;\n}\ntd.sell{ \n\tdisplay: none !important;\n}"
             },
             "mixers": 255,
             "sync": 0,
